@@ -1,18 +1,14 @@
 #EXTM3U
-#EXTINF:-1, 🕒 Cập nhật: 23/01/2026 18:43:33
+#EXTINF:-1, 🕒 Cập nhật: 23/01/2026 19:29:07
 http://localhost/info
+#EXTINF:-1 tvg-id="s7e1849z3v" tvg-logo="https://yquw1225.edgemaxcdn.org/thumb/20260124/bg_s7e1849z3v_1769105700903.jpg" group-title="🔥 Tâm Điểm", ⚽ AJ Auxerre vs Paris Saint Germain (PSG) | 02:00 24/01
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://cktv.pro/
+https://cktv.pro/match/s7e1849z3v
 #EXTINF:-1 tvg-id="c29efcqvaw" tvg-logo="https://yquw1225.edgemaxcdn.org/thumb/20260124/bg_c29efcqvaw_1769155922293.jpg" group-title="🔥 Tâm Điểm", ⚽ SV Darmstadt 98 vs 1. FC Nürnberg | 00:30 24/01
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://cktv.pro/
 https://cktv.pro/match/c29efcqvaw
-#EXTINF:-1 tvg-id="5e2p5ai04m" tvg-logo="https://yquw1225.edgemaxcdn.org/thumb/20260124/bg_5e2p5ai04m_1769098567668.jpg" group-title="🔥 Tâm Điểm", ⚽ Trabzonspor vs Kasimpasa | 00:00 24/01
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://cktv.pro/
-https://cktv.pro/match/5e2p5ai04m
-#EXTINF:-1 tvg-id="77drb3qid8" tvg-logo="https://yquw1225.edgemaxcdn.org/thumb/20260124/bg_77drb3qid8_1769098567668.jpg" group-title="🔥 Tâm Điểm", ⚽ Arminia Bielefeld vs Holstein Kiel | 00:30 24/01
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://cktv.pro/
-https://cktv.pro/match/77drb3qid8
 #EXTINF:-1 tvg-id="1bzdi031qx" tvg-logo="https://yquw1225.edgemaxcdn.org/thumb/20260124/bg_1bzdi031qx_1769098567668.jpg" group-title="🔥 Tâm Điểm", ⚽ Hermannstadt vs Dinamo Bucuresti | 01:00 24/01
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://cktv.pro/
@@ -21,14 +17,6 @@ https://cktv.pro/match/1bzdi031qx
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://cktv.pro/
 https://cktv.pro/match/7x0p2qewed
-#EXTINF:-1 tvg-id="4tt6bggfmu" tvg-logo="https://yquw1225.edgemaxcdn.org/thumb/20260124/bg_4tt6bggfmu_1769108521311.jpg" group-title="🔥 Tâm Điểm", ⚽ Adana Demirspor vs Bandirmaspor | 00:00 24/01
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://cktv.pro/
-https://cktv.pro/match/4tt6bggfmu
-#EXTINF:-1 tvg-id="oiys79rpbp" tvg-logo="https://yquw1225.edgemaxcdn.org/thumb/20260124/bg_oiys79rpbp_1769108521311.jpg" group-title="🔥 Tâm Điểm", ⚽ Union Berlin (w) vs Bayer Leverkusen (w) | 00:30 24/01
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://cktv.pro/
-https://cktv.pro/match/oiys79rpbp
 #EXTINF:-1 tvg-id="1t6irac217" tvg-logo="https://yquw1225.edgemaxcdn.org/thumb/20260123/bg_1t6irac217_1769072420461.jpg" group-title="🔥 Tâm Điểm", ⚽ Zakho vs Duhok | 00:30 24/01
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://cktv.pro/
@@ -37,10 +25,6 @@ https://cktv.pro/match/1t6irac217
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://cktv.pro/
 https://cktv.pro/match/lvcy7543hm
-#EXTINF:-1 tvg-id="s7e1849z3v" tvg-logo="https://yquw1225.edgemaxcdn.org/thumb/20260124/bg_s7e1849z3v_1769105700903.jpg" group-title="🔥 Tâm Điểm", ⚽ AJ Auxerre vs Paris Saint Germain (PSG) | 02:00 24/01
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://cktv.pro/
-https://cktv.pro/match/s7e1849z3v
 #EXTINF:-1 tvg-id="fw63rtmo9q" tvg-logo="https://yquw1225.edgemaxcdn.org/thumb/20260124/bg_fw63rtmo9q_1769108820833.jpg" group-title="🔥 Tâm Điểm", ⚽ Everton FC (w) vs Brighton H.A. (w) | 02:00 24/01
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://cktv.pro/
@@ -73,26 +57,66 @@ https://cktv.pro/match/xuvssxxwxk
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://cktv.pro/
 https://cktv.pro/match/u62cqkxoj1
-#EXTINF:-1 tvg-id="g8gnyp2flj" tvg-logo="https://yquw1225.edgemaxcdn.org/thumb/20260124/bg_g8gnyp2flj_1769108521311.jpg" group-title="🔥 Tâm Điểm", ⚽ SC Cambuur Leeuwarden vs FC Eindhoven | 02:00 24/01
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://cktv.pro/
-https://cktv.pro/match/g8gnyp2flj
 #EXTINF:-1 tvg-id="osnw3229bj" tvg-logo="https://yquw1225.edgemaxcdn.org/thumb/20260124/bg_osnw3229bj_1769108521311.jpg" group-title="🔥 Tâm Điểm", ⚽ Willem II vs VVV Venlo | 02:00 24/01
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://cktv.pro/
 https://cktv.pro/match/osnw3229bj
+#EXTINF:-1 tvg-id="lbiezleiqp" tvg-logo="https://yquw1225.edgemaxcdn.org/thumb/20260124/bg_lbiezleiqp_1769106002544.jpg" group-title="🔥 Tâm Điểm", ⚽ Inter Milan vs Pisa | 02:45 24/01
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://cktv.pro/
+https://cktv.pro/match/lbiezleiqp
+#EXTINF:-1 tvg-id="vul599284p" tvg-logo="https://yquw1225.edgemaxcdn.org/thumb/20260124/bg_vul599284p_1769106002544.jpg" group-title="🔥 Tâm Điểm", ⚽ FC St. Pauli vs Hamburger SV | 02:30 24/01
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://cktv.pro/
+https://cktv.pro/match/vul599284p
+#EXTINF:-1 tvg-id="77drb3qid8" tvg-logo="https://yquw1225.edgemaxcdn.org/thumb/20260124/bg_77drb3qid8_1769098567668.jpg" group-title="🔥 Tâm Điểm", ⚽ Arminia Bielefeld vs Holstein Kiel | 00:30 24/01
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://cktv.pro/
+https://cktv.pro/match/77drb3qid8
+#EXTINF:-1 tvg-id="544qo1yrul" tvg-logo="https://yquw1225.edgemaxcdn.org/thumb/20260124/bg_544qo1yrul_1769098801235.jpg" group-title="🔥 Tâm Điểm", ⚽ Malaga vs Burgos CF | 02:30 24/01
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://cktv.pro/
+https://cktv.pro/match/544qo1yrul
+#EXTINF:-1 tvg-id="hhir4ax86n" tvg-logo="https://yquw1225.edgemaxcdn.org/thumb/20260124/bg_hhir4ax86n_1769098801235.jpg" group-title="🔥 Tâm Điểm", ⚽ Derby County vs West Bromwich(WBA) | 03:00 24/01
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://cktv.pro/
+https://cktv.pro/match/hhir4ax86n
+#EXTINF:-1 tvg-id="oiys79rpbp" tvg-logo="https://yquw1225.edgemaxcdn.org/thumb/20260124/bg_oiys79rpbp_1769108521311.jpg" group-title="🔥 Tâm Điểm", ⚽ Union Berlin (w) vs Bayer Leverkusen (w) | 00:30 24/01
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://cktv.pro/
+https://cktv.pro/match/oiys79rpbp
+#EXTINF:-1 tvg-id="g8gnyp2flj" tvg-logo="https://yquw1225.edgemaxcdn.org/thumb/20260124/bg_g8gnyp2flj_1769108521311.jpg" group-title="🔥 Tâm Điểm", ⚽ SC Cambuur Leeuwarden vs FC Eindhoven | 02:00 24/01
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://cktv.pro/
+https://cktv.pro/match/g8gnyp2flj
+#EXTINF:-1 tvg-id="81cnd4cnrz" tvg-logo="https://yquw1225.edgemaxcdn.org/thumb/20260124/bg_81cnd4cnrz_1769108820833.jpg" group-title="🔥 Tâm Điểm", ⚽ Triestina vs Lumezzane | 02:30 24/01
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://cktv.pro/
+https://cktv.pro/match/81cnd4cnrz
+#EXTINF:-1 tvg-id="ke5gb013kw" tvg-logo="https://yquw1225.edgemaxcdn.org/thumb/20260124/bg_ke5gb013kw_1769108820833.jpg" group-title="🔥 Tâm Điểm", ⚽ Giugliano vs Cavese | 02:30 24/01
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://cktv.pro/
+https://cktv.pro/match/ke5gb013kw
+#EXTINF:-1 tvg-id="389d5m60ll" tvg-logo="https://yquw1225.edgemaxcdn.org/thumb/20260124/bg_389d5m60ll_1769108820833.jpg" group-title="🔥 Tâm Điểm", ⚽ Carrarese vs Empoli | 02:30 24/01
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://cktv.pro/
+https://cktv.pro/match/389d5m60ll
+#EXTINF:-1 tvg-id="kaneo0rifk" tvg-logo="https://yquw1225.edgemaxcdn.org/thumb/20260124/bg_kaneo0rifk_1769098801235.jpg" group-title="🔥 Tâm Điểm", ⚽ Standard Liege vs KAA Gent | 02:45 24/01
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://cktv.pro/
+https://cktv.pro/match/kaneo0rifk
+#EXTINF:-1 tvg-id="ypjvkvqj3r" tvg-logo="https://yquw1225.edgemaxcdn.org/thumb/20260124/bg_ypjvkvqj3r_1769164681170.jpg" group-title="🔥 Tâm Điểm", ⚽ Real Santander vs Real Cartagena | 03:30 24/01
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://cktv.pro/
+https://cktv.pro/match/ypjvkvqj3r
+#EXTINF:-1 tvg-id="s7e1849z3v" tvg-logo="https://yquw1225.edgemaxcdn.org/thumb/20260124/bg_s7e1849z3v_1769105700903.jpg" group-title="⚽ Bóng đá", ⚽ AJ Auxerre vs Paris Saint Germain (PSG) | 02:00 24/01
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://cktv.pro/
+https://cktv.pro/match/s7e1849z3v
 #EXTINF:-1 tvg-id="c29efcqvaw" tvg-logo="https://yquw1225.edgemaxcdn.org/thumb/20260124/bg_c29efcqvaw_1769155922293.jpg" group-title="⚽ Bóng đá", ⚽ SV Darmstadt 98 vs 1. FC Nürnberg | 00:30 24/01
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://cktv.pro/
 https://cktv.pro/match/c29efcqvaw
-#EXTINF:-1 tvg-id="5e2p5ai04m" tvg-logo="https://yquw1225.edgemaxcdn.org/thumb/20260124/bg_5e2p5ai04m_1769098567668.jpg" group-title="⚽ Bóng đá", ⚽ Trabzonspor vs Kasimpasa | 00:00 24/01
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://cktv.pro/
-https://cktv.pro/match/5e2p5ai04m
-#EXTINF:-1 tvg-id="77drb3qid8" tvg-logo="https://yquw1225.edgemaxcdn.org/thumb/20260124/bg_77drb3qid8_1769098567668.jpg" group-title="⚽ Bóng đá", ⚽ Arminia Bielefeld vs Holstein Kiel | 00:30 24/01
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://cktv.pro/
-https://cktv.pro/match/77drb3qid8
 #EXTINF:-1 tvg-id="1bzdi031qx" tvg-logo="https://yquw1225.edgemaxcdn.org/thumb/20260124/bg_1bzdi031qx_1769098567668.jpg" group-title="⚽ Bóng đá", ⚽ Hermannstadt vs Dinamo Bucuresti | 01:00 24/01
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://cktv.pro/
@@ -101,14 +125,6 @@ https://cktv.pro/match/1bzdi031qx
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://cktv.pro/
 https://cktv.pro/match/7x0p2qewed
-#EXTINF:-1 tvg-id="4tt6bggfmu" tvg-logo="https://yquw1225.edgemaxcdn.org/thumb/20260124/bg_4tt6bggfmu_1769108521311.jpg" group-title="⚽ Bóng đá", ⚽ Adana Demirspor vs Bandirmaspor | 00:00 24/01
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://cktv.pro/
-https://cktv.pro/match/4tt6bggfmu
-#EXTINF:-1 tvg-id="oiys79rpbp" tvg-logo="https://yquw1225.edgemaxcdn.org/thumb/20260124/bg_oiys79rpbp_1769108521311.jpg" group-title="⚽ Bóng đá", ⚽ Union Berlin (w) vs Bayer Leverkusen (w) | 00:30 24/01
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://cktv.pro/
-https://cktv.pro/match/oiys79rpbp
 #EXTINF:-1 tvg-id="1t6irac217" tvg-logo="https://yquw1225.edgemaxcdn.org/thumb/20260123/bg_1t6irac217_1769072420461.jpg" group-title="⚽ Bóng đá", ⚽ Zakho vs Duhok | 00:30 24/01
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://cktv.pro/
@@ -117,22 +133,6 @@ https://cktv.pro/match/1t6irac217
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://cktv.pro/
 https://cktv.pro/match/lvcy7543hm
-#EXTINF:-1 tvg-id="s7e1849z3v" tvg-logo="https://yquw1225.edgemaxcdn.org/thumb/20260124/bg_s7e1849z3v_1769105700903.jpg" group-title="⚽ Bóng đá", ⚽ AJ Auxerre vs Paris Saint Germain (PSG) | 02:00 24/01
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://cktv.pro/
-https://cktv.pro/match/s7e1849z3v
-#EXTINF:-1 tvg-id="vul599284p" tvg-logo="https://yquw1225.edgemaxcdn.org/thumb/20260124/bg_vul599284p_1769106002544.jpg" group-title="⚽ Bóng đá", ⚽ FC St. Pauli vs Hamburger SV | 02:30 24/01
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://cktv.pro/
-https://cktv.pro/match/vul599284p
-#EXTINF:-1 tvg-id="lbiezleiqp" tvg-logo="https://yquw1225.edgemaxcdn.org/thumb/20260124/bg_lbiezleiqp_1769106002544.jpg" group-title="⚽ Bóng đá", ⚽ Inter Milan vs Pisa | 02:45 24/01
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://cktv.pro/
-https://cktv.pro/match/lbiezleiqp
-#EXTINF:-1 tvg-id="z2n33x2ziq" tvg-logo="https://yquw1225.edgemaxcdn.org/thumb/20260124/bg_z2n33x2ziq_1769106002544.jpg" group-title="⚽ Bóng đá", ⚽ Levante vs Elche | 03:00 24/01
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://cktv.pro/
-https://cktv.pro/match/z2n33x2ziq
 #EXTINF:-1 tvg-id="fw63rtmo9q" tvg-logo="https://yquw1225.edgemaxcdn.org/thumb/20260124/bg_fw63rtmo9q_1769108820833.jpg" group-title="⚽ Bóng đá", ⚽ Everton FC (w) vs Brighton H.A. (w) | 02:00 24/01
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://cktv.pro/
@@ -165,18 +165,46 @@ https://cktv.pro/match/xuvssxxwxk
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://cktv.pro/
 https://cktv.pro/match/u62cqkxoj1
-#EXTINF:-1 tvg-id="g8gnyp2flj" tvg-logo="https://yquw1225.edgemaxcdn.org/thumb/20260124/bg_g8gnyp2flj_1769108521311.jpg" group-title="⚽ Bóng đá", ⚽ SC Cambuur Leeuwarden vs FC Eindhoven | 02:00 24/01
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://cktv.pro/
-https://cktv.pro/match/g8gnyp2flj
 #EXTINF:-1 tvg-id="osnw3229bj" tvg-logo="https://yquw1225.edgemaxcdn.org/thumb/20260124/bg_osnw3229bj_1769108521311.jpg" group-title="⚽ Bóng đá", ⚽ Willem II vs VVV Venlo | 02:00 24/01
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://cktv.pro/
 https://cktv.pro/match/osnw3229bj
+#EXTINF:-1 tvg-id="lbiezleiqp" tvg-logo="https://yquw1225.edgemaxcdn.org/thumb/20260124/bg_lbiezleiqp_1769106002544.jpg" group-title="⚽ Bóng đá", ⚽ Inter Milan vs Pisa | 02:45 24/01
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://cktv.pro/
+https://cktv.pro/match/lbiezleiqp
+#EXTINF:-1 tvg-id="vul599284p" tvg-logo="https://yquw1225.edgemaxcdn.org/thumb/20260124/bg_vul599284p_1769106002544.jpg" group-title="⚽ Bóng đá", ⚽ FC St. Pauli vs Hamburger SV | 02:30 24/01
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://cktv.pro/
+https://cktv.pro/match/vul599284p
+#EXTINF:-1 tvg-id="77drb3qid8" tvg-logo="https://yquw1225.edgemaxcdn.org/thumb/20260124/bg_77drb3qid8_1769098567668.jpg" group-title="⚽ Bóng đá", ⚽ Arminia Bielefeld vs Holstein Kiel | 00:30 24/01
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://cktv.pro/
+https://cktv.pro/match/77drb3qid8
 #EXTINF:-1 tvg-id="544qo1yrul" tvg-logo="https://yquw1225.edgemaxcdn.org/thumb/20260124/bg_544qo1yrul_1769098801235.jpg" group-title="⚽ Bóng đá", ⚽ Malaga vs Burgos CF | 02:30 24/01
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://cktv.pro/
 https://cktv.pro/match/544qo1yrul
+#EXTINF:-1 tvg-id="hhir4ax86n" tvg-logo="https://yquw1225.edgemaxcdn.org/thumb/20260124/bg_hhir4ax86n_1769098801235.jpg" group-title="⚽ Bóng đá", ⚽ Derby County vs West Bromwich(WBA) | 03:00 24/01
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://cktv.pro/
+https://cktv.pro/match/hhir4ax86n
+#EXTINF:-1 tvg-id="z2n33x2ziq" tvg-logo="https://yquw1225.edgemaxcdn.org/thumb/20260124/bg_z2n33x2ziq_1769106002544.jpg" group-title="⚽ Bóng đá", ⚽ Levante vs Elche | 03:00 24/01
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://cktv.pro/
+https://cktv.pro/match/z2n33x2ziq
+#EXTINF:-1 tvg-id="qebvblz3g6" tvg-logo="https://yquw1225.edgemaxcdn.org/thumb/20260124/bg_qebvblz3g6_1769098801235.jpg" group-title="⚽ Bóng đá", ⚽ Casa Pia AC vs AVS Futebol SAD | 03:15 24/01
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://cktv.pro/
+https://cktv.pro/match/qebvblz3g6
+#EXTINF:-1 tvg-id="oiys79rpbp" tvg-logo="https://yquw1225.edgemaxcdn.org/thumb/20260124/bg_oiys79rpbp_1769108521311.jpg" group-title="⚽ Bóng đá", ⚽ Union Berlin (w) vs Bayer Leverkusen (w) | 00:30 24/01
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://cktv.pro/
+https://cktv.pro/match/oiys79rpbp
+#EXTINF:-1 tvg-id="g8gnyp2flj" tvg-logo="https://yquw1225.edgemaxcdn.org/thumb/20260124/bg_g8gnyp2flj_1769108521311.jpg" group-title="⚽ Bóng đá", ⚽ SC Cambuur Leeuwarden vs FC Eindhoven | 02:00 24/01
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://cktv.pro/
+https://cktv.pro/match/g8gnyp2flj
 #EXTINF:-1 tvg-id="81cnd4cnrz" tvg-logo="https://yquw1225.edgemaxcdn.org/thumb/20260124/bg_81cnd4cnrz_1769108820833.jpg" group-title="⚽ Bóng đá", ⚽ Triestina vs Lumezzane | 02:30 24/01
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://cktv.pro/
@@ -193,14 +221,6 @@ https://cktv.pro/match/389d5m60ll
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://cktv.pro/
 https://cktv.pro/match/kaneo0rifk
-#EXTINF:-1 tvg-id="hhir4ax86n" tvg-logo="https://yquw1225.edgemaxcdn.org/thumb/20260124/bg_hhir4ax86n_1769098801235.jpg" group-title="⚽ Bóng đá", ⚽ Derby County vs West Bromwich(WBA) | 03:00 24/01
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://cktv.pro/
-https://cktv.pro/match/hhir4ax86n
-#EXTINF:-1 tvg-id="qebvblz3g6" tvg-logo="https://yquw1225.edgemaxcdn.org/thumb/20260124/bg_qebvblz3g6_1769098801235.jpg" group-title="⚽ Bóng đá", ⚽ Casa Pia AC vs AVS Futebol SAD | 03:15 24/01
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://cktv.pro/
-https://cktv.pro/match/qebvblz3g6
 #EXTINF:-1 tvg-id="ypjvkvqj3r" tvg-logo="https://yquw1225.edgemaxcdn.org/thumb/20260124/bg_ypjvkvqj3r_1769164681170.jpg" group-title="⚽ Bóng đá", ⚽ Real Santander vs Real Cartagena | 03:30 24/01
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://cktv.pro/
@@ -373,7 +393,7 @@ https://cktv.pro/match/l2q7lnv6xw
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://cktv.pro/
 https://cktv.pro/match/j87iek3fvk
-#EXTINF:-1 tvg-id="x0lt4qzo36" tvg-logo="https://yquw1225.edgemaxcdn.org/thumb/20260124/bg_x0lt4qzo36_1769189881094.jpg" group-title="⚽ Bóng đá", ⚽ PVF CAND vs Hoang Anh Gia Lai | 18:00 24/01
+#EXTINF:-1 tvg-id="x0lt4qzo36" tvg-logo="https://yquw1225.edgemaxcdn.org/thumb/20260124/bg_x0lt4qzo36_1769195462075.jpg" group-title="⚽ Bóng đá", ⚽ PVF CAND vs Hoang Anh Gia Lai | 18:00 24/01
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://cktv.pro/
 https://cktv.pro/match/x0lt4qzo36
@@ -445,6 +465,10 @@ https://cktv.pro/match/qo1lc5fluz
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://cktv.pro/
 https://cktv.pro/match/oq3nltzs64
+#EXTINF:-1 tvg-id="76k5hj9pbv" tvg-logo="https://yquw1225.edgemaxcdn.org/thumb/20260124/bg_76k5hj9pbv_1769195462075.jpg" group-title="⚽ Bóng đá", ⚽ West Ham United vs Sunderland A.F.C | 19:30 24/01
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://cktv.pro/
+https://cktv.pro/match/76k5hj9pbv
 #EXTINF:-1 tvg-id="mqn9f9xz9r" tvg-logo="https://yquw1225.edgemaxcdn.org/thumb/20260124/bg_mqn9f9xz9r_1769175721978.jpg" group-title="⚽ Bóng đá", ⚽ Middlesbrough vs Preston North End | 19:30 24/01
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://cktv.pro/
@@ -477,6 +501,10 @@ https://cktv.pro/match/fwnrxir407
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://cktv.pro/
 https://cktv.pro/match/88xx6k3xbq
+#EXTINF:-1 tvg-id="k8pfxbhluu" tvg-logo="https://yquw1225.edgemaxcdn.org/thumb/20260124/bg_k8pfxbhluu_1769195462075.jpg" group-title="⚽ Bóng đá", ⚽ Rayo Vallecano vs Osasuna | 20:00 24/01
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://cktv.pro/
+https://cktv.pro/match/k8pfxbhluu
 #EXTINF:-1 tvg-id="wnncrb4rpr" tvg-logo="https://yquw1225.edgemaxcdn.org/thumb/20260124/bg_wnncrb4rpr_1769175803016.jpg" group-title="⚽ Bóng đá", ⚽ Real Valladolid vs Albacete Balompié SAD | 20:00 24/01
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://cktv.pro/
@@ -501,6 +529,10 @@ https://cktv.pro/match/wv934xktt8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://cktv.pro/
 https://cktv.pro/match/cremccxp0j
+#EXTINF:-1 tvg-id="b45pmf3wte" tvg-logo="https://yquw1225.edgemaxcdn.org/thumb/20260124/bg_b45pmf3wte_1769195462075.jpg" group-title="⚽ Bóng đá", ⚽ Como vs Torino | 21:00 24/01
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://cktv.pro/
+https://cktv.pro/match/b45pmf3wte
 #EXTINF:-1 tvg-id="9ce48zttdh" tvg-logo="https://yquw1225.edgemaxcdn.org/thumb/20260124/bg_9ce48zttdh_1769176081319.jpg" group-title="⚽ Bóng đá", ⚽ Kisvárda Master Good FC vs MTK Budapest | 21:00 24/01
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://cktv.pro/
@@ -525,10 +557,42 @@ https://cktv.pro/match/x5mg1u3ngf
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://cktv.pro/
 https://cktv.pro/match/lgtvec02ic
+#EXTINF:-1 tvg-id="bvoz3psuti" tvg-logo="https://yquw1225.edgemaxcdn.org/thumb/20260124/bg_bvoz3psuti_1769195462075.jpg" group-title="⚽ Bóng đá", ⚽ Bayern Munchen vs FC Augsburg | 21:30 24/01
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://cktv.pro/
+https://cktv.pro/match/bvoz3psuti
+#EXTINF:-1 tvg-id="i5rwobzxe9" tvg-logo="https://yquw1225.edgemaxcdn.org/thumb/20260124/bg_i5rwobzxe9_1769195462075.jpg" group-title="⚽ Bóng đá", ⚽ Bayer Leverkusen vs Werder Bremen | 21:30 24/01
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://cktv.pro/
+https://cktv.pro/match/i5rwobzxe9
+#EXTINF:-1 tvg-id="23g8fgfo7b" tvg-logo="https://yquw1225.edgemaxcdn.org/thumb/20260124/bg_23g8fgfo7b_1769195462075.jpg" group-title="⚽ Bóng đá", ⚽ Eintracht Frankfurt vs TSG Hoffenheim | 21:30 24/01
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://cktv.pro/
+https://cktv.pro/match/23g8fgfo7b
+#EXTINF:-1 tvg-id="2g2g1vpo2m" tvg-logo="https://yquw1225.edgemaxcdn.org/thumb/20260124/bg_2g2g1vpo2m_1769195462075.jpg" group-title="⚽ Bóng đá", ⚽ 1. FC Heidenheim vs RB Leipzig | 21:30 24/01
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://cktv.pro/
+https://cktv.pro/match/2g2g1vpo2m
+#EXTINF:-1 tvg-id="lksrst2we4" tvg-logo="https://yquw1225.edgemaxcdn.org/thumb/20260124/bg_lksrst2we4_1769195462075.jpg" group-title="⚽ Bóng đá", ⚽ FSV Mainz 05 vs VfL Wolfsburg | 21:30 24/01
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://cktv.pro/
+https://cktv.pro/match/lksrst2we4
 #EXTINF:-1 tvg-id="9jvfd75edh" tvg-logo="https://yquw1225.edgemaxcdn.org/thumb/20260124/bg_9jvfd75edh_1769176148251.jpg" group-title="⚽ Bóng đá", ⚽ Al Kuwait SC vs Al-Arabi Club (KUW) | 21:45 24/01
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://cktv.pro/
 https://cktv.pro/match/9jvfd75edh
+#EXTINF:-1 tvg-id="v32gth7f26" tvg-logo="https://yquw1225.edgemaxcdn.org/thumb/20260124/bg_v32gth7f26_1769195462075.jpg" group-title="⚽ Bóng đá", ⚽ Burnley vs Tottenham Hotspur | 22:00 24/01
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://cktv.pro/
+https://cktv.pro/match/v32gth7f26
+#EXTINF:-1 tvg-id="9xlr9neygo" tvg-logo="https://yquw1225.edgemaxcdn.org/thumb/20260124/bg_9xlr9neygo_1769195528187.jpg" group-title="⚽ Bóng đá", ⚽ Fulham vs Brighton Hove Albion | 22:00 24/01
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://cktv.pro/
+https://cktv.pro/match/9xlr9neygo
+#EXTINF:-1 tvg-id="vd5h8c6xen" tvg-logo="https://yquw1225.edgemaxcdn.org/thumb/20260124/bg_vd5h8c6xen_1769195701544.jpg" group-title="⚽ Bóng đá", ⚽ Manchester City vs Wolves | 22:00 24/01
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://cktv.pro/
+https://cktv.pro/match/vd5h8c6xen
 #EXTINF:-1 tvg-id="kicvq7gfy2" tvg-logo="https://yquw1225.edgemaxcdn.org/thumb/20260124/bg_kicvq7gfy2_1769176148251.jpg" group-title="⚽ Bóng đá", ⚽ Blackburn Rovers vs Watford | 22:00 24/01
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://cktv.pro/
@@ -557,6 +621,10 @@ https://cktv.pro/match/z8itc0zugt
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://cktv.pro/
 https://cktv.pro/match/pu86cg54ll
+#EXTINF:-1 tvg-id="tjarceoy1b" tvg-logo="https://yquw1225.edgemaxcdn.org/thumb/20260124/bg_tjarceoy1b_1769195701544.jpg" group-title="⚽ Bóng đá", ⚽ Trung Quốc U23 vs Japan U23 | 22:00 24/01
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://cktv.pro/
+https://cktv.pro/match/tjarceoy1b
 #EXTINF:-1 tvg-id="mipawfbsnp" tvg-logo="https://yquw1225.edgemaxcdn.org/thumb/20260124/bg_mipawfbsnp_1769176218293.jpg" group-title="⚽ Bóng đá", ⚽ Olympique Dcheira vs DHJ Difaa Hassani Jadidi | 22:00 24/01
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://cktv.pro/
@@ -565,6 +633,10 @@ https://cktv.pro/match/mipawfbsnp
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://cktv.pro/
 https://cktv.pro/match/kt5x15njgy
+#EXTINF:-1 tvg-id="m90g4xta3h" tvg-logo="https://yquw1225.edgemaxcdn.org/thumb/20260124/bg_m90g4xta3h_1769195701544.jpg" group-title="⚽ Bóng đá", ⚽ Valencia vs RCD Espanyol | 22:15 24/01
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://cktv.pro/
+https://cktv.pro/match/m90g4xta3h
 #EXTINF:-1 tvg-id="tvho861ivs" tvg-logo="https://yquw1225.edgemaxcdn.org/thumb/20260124/bg_tvho861ivs_1769176218293.jpg" group-title="⚽ Bóng đá", ⚽ Leganes vs Real Sociedad B | 22:15 24/01
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://cktv.pro/
@@ -589,6 +661,10 @@ https://cktv.pro/match/sownmqjcdq
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://cktv.pro/
 https://cktv.pro/match/h6q9qf8y92
+#EXTINF:-1 tvg-id="4tdb0fi04d" tvg-logo="https://yquw1225.edgemaxcdn.org/thumb/20260124/bg_4tdb0fi04d_1769195701544.jpg" group-title="⚽ Bóng đá", ⚽ Stade Rennais FC vs Lorient | 23:00 24/01
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://cktv.pro/
+https://cktv.pro/match/4tdb0fi04d
 #EXTINF:-1 tvg-id="xbceay0fzp" tvg-logo="https://yquw1225.edgemaxcdn.org/thumb/20260124/bg_xbceay0fzp_1769176286121.jpg" group-title="⚽ Bóng đá", ⚽ Pendikspor vs Erzurum BB | 23:00 24/01
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://cktv.pro/
@@ -617,7 +693,7 @@ https://cktv.pro/match/whn93ow4vs
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://cktv.pro/
 https://cktv.pro/match/dtt5y8qyez
-#EXTINF:-1 tvg-id="lpto012x66" tvg-logo="https://yquw1225.edgemaxcdn.org/thumb/20260125/bg_lpto012x66_1768931481671.jpg" group-title="⚽ Bóng đá", ⚽ Fiorentina vs Cagliari | 00:00 25/01
+#EXTINF:-1 tvg-id="lpto012x66" tvg-logo="https://yquw1225.edgemaxcdn.org/thumb/20260125/bg_lpto012x66_1769195701544.jpg" group-title="⚽ Bóng đá", ⚽ Fiorentina vs Cagliari | 00:00 25/01
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://cktv.pro/
 https://cktv.pro/match/lpto012x66
@@ -637,11 +713,11 @@ https://cktv.pro/match/1lp2durbrf
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://cktv.pro/
 https://cktv.pro/match/x2yvnd5cni
-#EXTINF:-1 tvg-id="69xgh61800" tvg-logo="https://yquw1225.edgemaxcdn.org/thumb/20260125/bg_69xgh61800_1768931820815.jpg" group-title="⚽ Bóng đá", ⚽ Bournemouth AFC vs Liverpool | 00:30 25/01
+#EXTINF:-1 tvg-id="69xgh61800" tvg-logo="https://yquw1225.edgemaxcdn.org/thumb/20260125/bg_69xgh61800_1769195701544.jpg" group-title="⚽ Bóng đá", ⚽ Bournemouth AFC vs Liverpool | 00:30 25/01
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://cktv.pro/
 https://cktv.pro/match/69xgh61800
-#EXTINF:-1 tvg-id="435oh1dmku" tvg-logo="https://yquw1225.edgemaxcdn.org/thumb/20260125/bg_435oh1dmku_1768931820815.jpg" group-title="⚽ Bóng đá", ⚽ Union Berlin vs Borussia Dortmund | 00:30 25/01
+#EXTINF:-1 tvg-id="435oh1dmku" tvg-logo="https://yquw1225.edgemaxcdn.org/thumb/20260125/bg_435oh1dmku_1769195701544.jpg" group-title="⚽ Bóng đá", ⚽ Union Berlin vs Borussia Dortmund | 00:30 25/01
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://cktv.pro/
 https://cktv.pro/match/435oh1dmku
@@ -649,7 +725,7 @@ https://cktv.pro/match/435oh1dmku
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://cktv.pro/
 https://cktv.pro/match/uya02k6k9x
-#EXTINF:-1 tvg-id="l674le8bbd" tvg-logo="https://yquw1225.edgemaxcdn.org/thumb/20260125/bg_l674le8bbd_1768931888956.jpg" group-title="⚽ Bóng đá", ⚽ Sevilla vs Athletic Bilbao | 00:30 25/01
+#EXTINF:-1 tvg-id="l674le8bbd" tvg-logo="https://yquw1225.edgemaxcdn.org/thumb/20260125/bg_l674le8bbd_1769195701544.jpg" group-title="⚽ Bóng đá", ⚽ Sevilla vs Athletic Bilbao | 00:30 25/01
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://cktv.pro/
 https://cktv.pro/match/l674le8bbd
@@ -673,7 +749,7 @@ https://cktv.pro/match/zkvutazcnt
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://cktv.pro/
 https://cktv.pro/match/jcogku9l0n
-#EXTINF:-1 tvg-id="k72k0vsm14" tvg-logo="https://yquw1225.edgemaxcdn.org/thumb/20260125/bg_k72k0vsm14_1768931888956.jpg" group-title="⚽ Bóng đá", ⚽ Le Havre AC vs Monaco | 01:00 25/01
+#EXTINF:-1 tvg-id="k72k0vsm14" tvg-logo="https://yquw1225.edgemaxcdn.org/thumb/20260125/bg_k72k0vsm14_1769195701544.jpg" group-title="⚽ Bóng đá", ⚽ Le Havre AC vs Monaco | 01:00 25/01
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://cktv.pro/
 https://cktv.pro/match/k72k0vsm14
@@ -681,7 +757,7 @@ https://cktv.pro/match/k72k0vsm14
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://cktv.pro/
 https://cktv.pro/match/eua2uigyvv
-#EXTINF:-1 tvg-id="m1nwuddc40" tvg-logo="https://yquw1225.edgemaxcdn.org/thumb/20260125/bg_m1nwuddc40_1768931888956.jpg" group-title="⚽ Bóng đá", ⚽ FC Arouca vs Sporting CP | 01:00 25/01
+#EXTINF:-1 tvg-id="m1nwuddc40" tvg-logo="https://yquw1225.edgemaxcdn.org/thumb/20260125/bg_m1nwuddc40_1769195701544.jpg" group-title="⚽ Bóng đá", ⚽ FC Arouca vs Sporting CP | 01:00 25/01
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://cktv.pro/
 https://cktv.pro/match/m1nwuddc40
@@ -725,7 +801,7 @@ https://cktv.pro/match/ayft1137eu
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://cktv.pro/
 https://cktv.pro/match/c1o052t2du
-#EXTINF:-1 tvg-id="b7jbnelx03" tvg-logo="https://yquw1225.edgemaxcdn.org/thumb/20260125/bg_b7jbnelx03_1769191981283.jpg" group-title="⚽ Bóng đá", ⚽ Lecce vs Lazio | 02:45 25/01
+#EXTINF:-1 tvg-id="b7jbnelx03" tvg-logo="https://yquw1225.edgemaxcdn.org/thumb/20260125/bg_b7jbnelx03_1769195768615.jpg" group-title="⚽ Bóng đá", ⚽ Lecce vs Lazio | 02:45 25/01
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://cktv.pro/
 https://cktv.pro/match/b7jbnelx03
@@ -737,7 +813,7 @@ https://cktv.pro/match/p0zt8fose7
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://cktv.pro/
 https://cktv.pro/match/9m3sdv0kl9
-#EXTINF:-1 tvg-id="l6dpalodxv" tvg-logo="https://yquw1225.edgemaxcdn.org/thumb/20260125/bg_l6dpalodxv_1769192047916.jpg" group-title="⚽ Bóng đá", ⚽ Villarreal vs Real Madrid | 03:00 25/01
+#EXTINF:-1 tvg-id="l6dpalodxv" tvg-logo="https://yquw1225.edgemaxcdn.org/thumb/20260125/bg_l6dpalodxv_1769195768615.jpg" group-title="⚽ Bóng đá", ⚽ Villarreal vs Real Madrid | 03:00 25/01
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://cktv.pro/
 https://cktv.pro/match/l6dpalodxv
@@ -749,7 +825,7 @@ https://cktv.pro/match/85zusc7j2y
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://cktv.pro/
 https://cktv.pro/match/eeesmajmtq
-#EXTINF:-1 tvg-id="ae9iszovgf" tvg-logo="https://yquw1225.edgemaxcdn.org/thumb/20260125/bg_ae9iszovgf_1769192341348.jpg" group-title="⚽ Bóng đá", ⚽ Marseille vs Lens | 03:05 25/01
+#EXTINF:-1 tvg-id="ae9iszovgf" tvg-logo="https://yquw1225.edgemaxcdn.org/thumb/20260125/bg_ae9iszovgf_1769195768615.jpg" group-title="⚽ Bóng đá", ⚽ Marseille vs Lens | 03:05 25/01
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://cktv.pro/
 https://cktv.pro/match/ae9iszovgf
@@ -953,48 +1029,48 @@ https://cktv.pro/match/7jjbwdyh5h
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://cktv.pro/
 https://cktv.pro/match/xc1z2uql2o
-#EXTINF:-1 tvg-id="streamed" tvg-logo="https://tt.8share.pro/assets/streamed_logo.png" group-title="⚡ Nội dung hấp dẫn - Giải trí không giới hạn! ⚡", Streamed
-https://tt.8share.pro/streamed
-#EXTINF:-1 tvg-id="hangtruyen" tvg-logo="https://ht.khotruyen.link/images/hangtruyen.png" group-title="⚡ Nội dung hấp dẫn - Giải trí không giới hạn! ⚡", Hang Truyện
-https://ht.khotruyen.link
-#EXTINF:-1 tvg-id="vachvoi" tvg-logo="https://tt.8share.pro/assets/vachvoi_logo.png" group-title="⚡ Nội dung hấp dẫn - Giải trí không giới hạn! ⚡", Vạch Vôi TV
-https://tt.8share.pro/vachvoi
-#EXTINF:-1 tvg-id="buncha" tvg-logo="https://tt.8share.pro/assets/buncha_logo.png" group-title="⚡ Nội dung hấp dẫn - Giải trí không giới hạn! ⚡", Bún Chả TV
-https://tt.8share.pro/buncha
-#EXTINF:-1 tvg-id="thapcamtv" tvg-logo="https://thapcamiptv.com/10cam-logo-app-light.jpg" group-title="⚡ Nội dung hấp dẫn - Giải trí không giới hạn! ⚡", ThapcamTV
-https://tctv.pro
 #EXTINF:-1 tvg-id="hoadao" tvg-logo="https://tt.8share.pro/assets/hoadao_logo.png" group-title="⚡ Nội dung hấp dẫn - Giải trí không giới hạn! ⚡", Hoa Đào TV
 https://tt.8share.pro/hoadao
-#EXTINF:-1 tvg-id="animehay" tvg-logo="https://iptv.animehay.dev/logo.png" group-title="⚡ Nội dung hấp dẫn - Giải trí không giới hạn! ⚡", Animehay
-https://iptv.animehay.dev
 #EXTINF:-1 tvg-id="truyenhinh" tvg-logo="https://iptv.nhadai.org/logo.png" group-title="⚡ Nội dung hấp dẫn - Giải trí không giới hạn! ⚡", FPT
 https://iptv.nhadai.org/v1
 #EXTINF:-1 tvg-id="otruyen" tvg-logo="https://otruyen-iptv.khotruyen.link/logo.png" group-title="⚡ Nội dung hấp dẫn - Giải trí không giới hạn! ⚡", Ổ Truyện
 https://otruyen-iptv.khotruyen.link
+#EXTINF:-1 tvg-id="animehay" tvg-logo="https://iptv.animehay.dev/logo.png" group-title="⚡ Nội dung hấp dẫn - Giải trí không giới hạn! ⚡", Animehay
+https://iptv.animehay.dev
+#EXTINF:-1 tvg-id="thapcamtv" tvg-logo="https://thapcamiptv.com/10cam-logo-app-light.jpg" group-title="⚡ Nội dung hấp dẫn - Giải trí không giới hạn! ⚡", ThapcamTV
+https://tctv.pro
 #EXTINF:-1 tvg-id="khandaia" tvg-logo="https://tt.8share.pro/assets/khandaia_logo.png" group-title="⚡ Nội dung hấp dẫn - Giải trí không giới hạn! ⚡", Khán Đài A
 https://tt.8share.pro/khandaia
-#EXTINF:-1 tvg-id="anime47" tvg-logo="https://iptv.anime47.net/logo.png" group-title="⚡ Nội dung hấp dẫn - Giải trí không giới hạn! ⚡", Anime47
-https://iptv.anime47.net
-#EXTINF:-1 tvg-id="gavang" tvg-logo="https://tt.8share.pro/assets/gavang_logo.png" group-title="⚡ Nội dung hấp dẫn - Giải trí không giới hạn! ⚡", Gà Vàng TV
-https://tt.8share.pro/gavang
+#EXTINF:-1 tvg-id="buncha" tvg-logo="https://tt.8share.pro/assets/buncha_logo.png" group-title="⚡ Nội dung hấp dẫn - Giải trí không giới hạn! ⚡", Bún Chả TV
+https://tt.8share.pro/buncha
+#EXTINF:-1 tvg-id="chuoichien" tvg-logo="https://tt.8share.pro/assets/chuoichien_logo.png" group-title="⚡ Nội dung hấp dẫn - Giải trí không giới hạn! ⚡", Chuối Chiên TV
+https://tt.8share.pro/chuoichien
 #EXTINF:-1 tvg-id="socolive" tvg-logo="https://tt.8share.pro/assets/socolive_logo.png" group-title="⚡ Nội dung hấp dẫn - Giải trí không giới hạn! ⚡", Socolive
 https://tt.8share.pro/socolive
-#EXTINF:-1 tvg-id="ophim" tvg-logo="https://op-pvd.moviedb.dev/logo.png" group-title="⚡ Nội dung hấp dẫn - Giải trí không giới hạn! ⚡", Ophim
-https://op-pvd.moviedb.dev
-#EXTINF:-1 tvg-id="hoiquan" tvg-logo="https://tt.8share.pro/assets/hoiquan_logo.png" group-title="⚡ Nội dung hấp dẫn - Giải trí không giới hạn! ⚡", Hội Quán TV
-https://tt.8share.pro/hoiquan
-#EXTINF:-1 tvg-id="luongson" tvg-logo="https://tt.8share.pro/assets/luongson_logo.png" group-title="⚡ Nội dung hấp dẫn - Giải trí không giới hạn! ⚡", Lương Sơn TV
-https://tt.8share.pro/luongson
 #EXTINF:-1 tvg-id="vebotv" tvg-logo="https://vebo.thethaoiptv.com/vebo-icon.png" group-title="⚡ Nội dung hấp dẫn - Giải trí không giới hạn! ⚡", VeboTV
 https://vbtv.pro
 #EXTINF:-1 tvg-id="newtruyenhot" tvg-logo="https://newtruyenhot.4share.me/static/img/logo-newtruyenhot.png" group-title="⚡ Nội dung hấp dẫn - Giải trí không giới hạn! ⚡", NewTruyenHot
 https://newtruyenhot.4share.me
-#EXTINF:-1 tvg-id="kkphim" tvg-logo="https://kk-pvd.moviedb.dev/logo.png" group-title="⚡ Nội dung hấp dẫn - Giải trí không giới hạn! ⚡", Kkphim
-https://kk-pvd.moviedb.dev
-#EXTINF:-1 tvg-id="chuoichien" tvg-logo="https://tt.8share.pro/assets/chuoichien_logo.png" group-title="⚡ Nội dung hấp dẫn - Giải trí không giới hạn! ⚡", Chuối Chiên TV
-https://tt.8share.pro/chuoichien
+#EXTINF:-1 tvg-id="luongson" tvg-logo="https://tt.8share.pro/assets/luongson_logo.png" group-title="⚡ Nội dung hấp dẫn - Giải trí không giới hạn! ⚡", Lương Sơn TV
+https://tt.8share.pro/luongson
+#EXTINF:-1 tvg-id="streamed" tvg-logo="https://tt.8share.pro/assets/streamed_logo.png" group-title="⚡ Nội dung hấp dẫn - Giải trí không giới hạn! ⚡", Streamed
+https://tt.8share.pro/streamed
 #EXTINF:-1 tvg-id="vtvgo" tvg-logo="https://web-cache-aws.vtvdigital.vn/assets/images/logo-app.png" group-title="⚡ Nội dung hấp dẫn - Giải trí không giới hạn! ⚡", VTVGO
 https://vtvgo.4share.me/v1
+#EXTINF:-1 tvg-id="kkphim" tvg-logo="https://kk-pvd.moviedb.dev/logo.png" group-title="⚡ Nội dung hấp dẫn - Giải trí không giới hạn! ⚡", Kkphim
+https://kk-pvd.moviedb.dev
+#EXTINF:-1 tvg-id="anime47" tvg-logo="https://iptv.anime47.net/logo.png" group-title="⚡ Nội dung hấp dẫn - Giải trí không giới hạn! ⚡", Anime47
+https://iptv.anime47.net
+#EXTINF:-1 tvg-id="gavang" tvg-logo="https://tt.8share.pro/assets/gavang_logo.png" group-title="⚡ Nội dung hấp dẫn - Giải trí không giới hạn! ⚡", Gà Vàng TV
+https://tt.8share.pro/gavang
+#EXTINF:-1 tvg-id="hoiquan" tvg-logo="https://tt.8share.pro/assets/hoiquan_logo.png" group-title="⚡ Nội dung hấp dẫn - Giải trí không giới hạn! ⚡", Hội Quán TV
+https://tt.8share.pro/hoiquan
+#EXTINF:-1 tvg-id="hangtruyen" tvg-logo="https://ht.khotruyen.link/images/hangtruyen.png" group-title="⚡ Nội dung hấp dẫn - Giải trí không giới hạn! ⚡", Hang Truyện
+https://ht.khotruyen.link
+#EXTINF:-1 tvg-id="vachvoi" tvg-logo="https://tt.8share.pro/assets/vachvoi_logo.png" group-title="⚡ Nội dung hấp dẫn - Giải trí không giới hạn! ⚡", Vạch Vôi TV
+https://tt.8share.pro/vachvoi
+#EXTINF:-1 tvg-id="ophim" tvg-logo="https://op-pvd.moviedb.dev/logo.png" group-title="⚡ Nội dung hấp dẫn - Giải trí không giới hạn! ⚡", Ophim
+https://op-pvd.moviedb.dev
 #EXTINF:-1 tvg-id="3rjmnlw9kg" tvg-logo="https://yquw1225.edgemaxcdn.org/thumb/20260124/bg_3rjmnlw9kg_1769180701093.jpg" group-title="🏀 Bóng rổ", 🏀 Detroit Pistons vs Houston Rockets | 07:00 24/01
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://cktv.pro/
@@ -1003,18 +1079,14 @@ https://cktv.pro/match/3rjmnlw9kg
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://cktv.pro/
 https://cktv.pro/match/7m1rmjcdb4
+#EXTINF:-1 tvg-id="s7e1849z3v" tvg-logo="https://yquw1225.edgemaxcdn.org/thumb/20260124/bg_s7e1849z3v_1769105700903.jpg" group-title="📅 Lịch Thi Đấu: 24/01/2026", ⚽ AJ Auxerre vs Paris Saint Germain (PSG) | 02:00 24/01
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://cktv.pro/
+https://cktv.pro/match/s7e1849z3v
 #EXTINF:-1 tvg-id="c29efcqvaw" tvg-logo="https://yquw1225.edgemaxcdn.org/thumb/20260124/bg_c29efcqvaw_1769155922293.jpg" group-title="📅 Lịch Thi Đấu: 24/01/2026", ⚽ SV Darmstadt 98 vs 1. FC Nürnberg | 00:30 24/01
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://cktv.pro/
 https://cktv.pro/match/c29efcqvaw
-#EXTINF:-1 tvg-id="5e2p5ai04m" tvg-logo="https://yquw1225.edgemaxcdn.org/thumb/20260124/bg_5e2p5ai04m_1769098567668.jpg" group-title="📅 Lịch Thi Đấu: 24/01/2026", ⚽ Trabzonspor vs Kasimpasa | 00:00 24/01
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://cktv.pro/
-https://cktv.pro/match/5e2p5ai04m
-#EXTINF:-1 tvg-id="77drb3qid8" tvg-logo="https://yquw1225.edgemaxcdn.org/thumb/20260124/bg_77drb3qid8_1769098567668.jpg" group-title="📅 Lịch Thi Đấu: 24/01/2026", ⚽ Arminia Bielefeld vs Holstein Kiel | 00:30 24/01
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://cktv.pro/
-https://cktv.pro/match/77drb3qid8
 #EXTINF:-1 tvg-id="1bzdi031qx" tvg-logo="https://yquw1225.edgemaxcdn.org/thumb/20260124/bg_1bzdi031qx_1769098567668.jpg" group-title="📅 Lịch Thi Đấu: 24/01/2026", ⚽ Hermannstadt vs Dinamo Bucuresti | 01:00 24/01
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://cktv.pro/
@@ -1023,14 +1095,6 @@ https://cktv.pro/match/1bzdi031qx
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://cktv.pro/
 https://cktv.pro/match/7x0p2qewed
-#EXTINF:-1 tvg-id="4tt6bggfmu" tvg-logo="https://yquw1225.edgemaxcdn.org/thumb/20260124/bg_4tt6bggfmu_1769108521311.jpg" group-title="📅 Lịch Thi Đấu: 24/01/2026", ⚽ Adana Demirspor vs Bandirmaspor | 00:00 24/01
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://cktv.pro/
-https://cktv.pro/match/4tt6bggfmu
-#EXTINF:-1 tvg-id="oiys79rpbp" tvg-logo="https://yquw1225.edgemaxcdn.org/thumb/20260124/bg_oiys79rpbp_1769108521311.jpg" group-title="📅 Lịch Thi Đấu: 24/01/2026", ⚽ Union Berlin (w) vs Bayer Leverkusen (w) | 00:30 24/01
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://cktv.pro/
-https://cktv.pro/match/oiys79rpbp
 #EXTINF:-1 tvg-id="1t6irac217" tvg-logo="https://yquw1225.edgemaxcdn.org/thumb/20260123/bg_1t6irac217_1769072420461.jpg" group-title="📅 Lịch Thi Đấu: 24/01/2026", ⚽ Zakho vs Duhok | 00:30 24/01
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://cktv.pro/
@@ -1039,22 +1103,6 @@ https://cktv.pro/match/1t6irac217
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://cktv.pro/
 https://cktv.pro/match/lvcy7543hm
-#EXTINF:-1 tvg-id="s7e1849z3v" tvg-logo="https://yquw1225.edgemaxcdn.org/thumb/20260124/bg_s7e1849z3v_1769105700903.jpg" group-title="📅 Lịch Thi Đấu: 24/01/2026", ⚽ AJ Auxerre vs Paris Saint Germain (PSG) | 02:00 24/01
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://cktv.pro/
-https://cktv.pro/match/s7e1849z3v
-#EXTINF:-1 tvg-id="vul599284p" tvg-logo="https://yquw1225.edgemaxcdn.org/thumb/20260124/bg_vul599284p_1769106002544.jpg" group-title="📅 Lịch Thi Đấu: 24/01/2026", ⚽ FC St. Pauli vs Hamburger SV | 02:30 24/01
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://cktv.pro/
-https://cktv.pro/match/vul599284p
-#EXTINF:-1 tvg-id="lbiezleiqp" tvg-logo="https://yquw1225.edgemaxcdn.org/thumb/20260124/bg_lbiezleiqp_1769106002544.jpg" group-title="📅 Lịch Thi Đấu: 24/01/2026", ⚽ Inter Milan vs Pisa | 02:45 24/01
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://cktv.pro/
-https://cktv.pro/match/lbiezleiqp
-#EXTINF:-1 tvg-id="z2n33x2ziq" tvg-logo="https://yquw1225.edgemaxcdn.org/thumb/20260124/bg_z2n33x2ziq_1769106002544.jpg" group-title="📅 Lịch Thi Đấu: 24/01/2026", ⚽ Levante vs Elche | 03:00 24/01
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://cktv.pro/
-https://cktv.pro/match/z2n33x2ziq
 #EXTINF:-1 tvg-id="fw63rtmo9q" tvg-logo="https://yquw1225.edgemaxcdn.org/thumb/20260124/bg_fw63rtmo9q_1769108820833.jpg" group-title="📅 Lịch Thi Đấu: 24/01/2026", ⚽ Everton FC (w) vs Brighton H.A. (w) | 02:00 24/01
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://cktv.pro/
@@ -1087,18 +1135,46 @@ https://cktv.pro/match/xuvssxxwxk
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://cktv.pro/
 https://cktv.pro/match/u62cqkxoj1
-#EXTINF:-1 tvg-id="g8gnyp2flj" tvg-logo="https://yquw1225.edgemaxcdn.org/thumb/20260124/bg_g8gnyp2flj_1769108521311.jpg" group-title="📅 Lịch Thi Đấu: 24/01/2026", ⚽ SC Cambuur Leeuwarden vs FC Eindhoven | 02:00 24/01
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://cktv.pro/
-https://cktv.pro/match/g8gnyp2flj
 #EXTINF:-1 tvg-id="osnw3229bj" tvg-logo="https://yquw1225.edgemaxcdn.org/thumb/20260124/bg_osnw3229bj_1769108521311.jpg" group-title="📅 Lịch Thi Đấu: 24/01/2026", ⚽ Willem II vs VVV Venlo | 02:00 24/01
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://cktv.pro/
 https://cktv.pro/match/osnw3229bj
+#EXTINF:-1 tvg-id="lbiezleiqp" tvg-logo="https://yquw1225.edgemaxcdn.org/thumb/20260124/bg_lbiezleiqp_1769106002544.jpg" group-title="📅 Lịch Thi Đấu: 24/01/2026", ⚽ Inter Milan vs Pisa | 02:45 24/01
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://cktv.pro/
+https://cktv.pro/match/lbiezleiqp
+#EXTINF:-1 tvg-id="vul599284p" tvg-logo="https://yquw1225.edgemaxcdn.org/thumb/20260124/bg_vul599284p_1769106002544.jpg" group-title="📅 Lịch Thi Đấu: 24/01/2026", ⚽ FC St. Pauli vs Hamburger SV | 02:30 24/01
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://cktv.pro/
+https://cktv.pro/match/vul599284p
+#EXTINF:-1 tvg-id="77drb3qid8" tvg-logo="https://yquw1225.edgemaxcdn.org/thumb/20260124/bg_77drb3qid8_1769098567668.jpg" group-title="📅 Lịch Thi Đấu: 24/01/2026", ⚽ Arminia Bielefeld vs Holstein Kiel | 00:30 24/01
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://cktv.pro/
+https://cktv.pro/match/77drb3qid8
 #EXTINF:-1 tvg-id="544qo1yrul" tvg-logo="https://yquw1225.edgemaxcdn.org/thumb/20260124/bg_544qo1yrul_1769098801235.jpg" group-title="📅 Lịch Thi Đấu: 24/01/2026", ⚽ Malaga vs Burgos CF | 02:30 24/01
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://cktv.pro/
 https://cktv.pro/match/544qo1yrul
+#EXTINF:-1 tvg-id="hhir4ax86n" tvg-logo="https://yquw1225.edgemaxcdn.org/thumb/20260124/bg_hhir4ax86n_1769098801235.jpg" group-title="📅 Lịch Thi Đấu: 24/01/2026", ⚽ Derby County vs West Bromwich(WBA) | 03:00 24/01
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://cktv.pro/
+https://cktv.pro/match/hhir4ax86n
+#EXTINF:-1 tvg-id="z2n33x2ziq" tvg-logo="https://yquw1225.edgemaxcdn.org/thumb/20260124/bg_z2n33x2ziq_1769106002544.jpg" group-title="📅 Lịch Thi Đấu: 24/01/2026", ⚽ Levante vs Elche | 03:00 24/01
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://cktv.pro/
+https://cktv.pro/match/z2n33x2ziq
+#EXTINF:-1 tvg-id="qebvblz3g6" tvg-logo="https://yquw1225.edgemaxcdn.org/thumb/20260124/bg_qebvblz3g6_1769098801235.jpg" group-title="📅 Lịch Thi Đấu: 24/01/2026", ⚽ Casa Pia AC vs AVS Futebol SAD | 03:15 24/01
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://cktv.pro/
+https://cktv.pro/match/qebvblz3g6
+#EXTINF:-1 tvg-id="oiys79rpbp" tvg-logo="https://yquw1225.edgemaxcdn.org/thumb/20260124/bg_oiys79rpbp_1769108521311.jpg" group-title="📅 Lịch Thi Đấu: 24/01/2026", ⚽ Union Berlin (w) vs Bayer Leverkusen (w) | 00:30 24/01
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://cktv.pro/
+https://cktv.pro/match/oiys79rpbp
+#EXTINF:-1 tvg-id="g8gnyp2flj" tvg-logo="https://yquw1225.edgemaxcdn.org/thumb/20260124/bg_g8gnyp2flj_1769108521311.jpg" group-title="📅 Lịch Thi Đấu: 24/01/2026", ⚽ SC Cambuur Leeuwarden vs FC Eindhoven | 02:00 24/01
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://cktv.pro/
+https://cktv.pro/match/g8gnyp2flj
 #EXTINF:-1 tvg-id="81cnd4cnrz" tvg-logo="https://yquw1225.edgemaxcdn.org/thumb/20260124/bg_81cnd4cnrz_1769108820833.jpg" group-title="📅 Lịch Thi Đấu: 24/01/2026", ⚽ Triestina vs Lumezzane | 02:30 24/01
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://cktv.pro/
@@ -1115,14 +1191,6 @@ https://cktv.pro/match/389d5m60ll
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://cktv.pro/
 https://cktv.pro/match/kaneo0rifk
-#EXTINF:-1 tvg-id="hhir4ax86n" tvg-logo="https://yquw1225.edgemaxcdn.org/thumb/20260124/bg_hhir4ax86n_1769098801235.jpg" group-title="📅 Lịch Thi Đấu: 24/01/2026", ⚽ Derby County vs West Bromwich(WBA) | 03:00 24/01
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://cktv.pro/
-https://cktv.pro/match/hhir4ax86n
-#EXTINF:-1 tvg-id="qebvblz3g6" tvg-logo="https://yquw1225.edgemaxcdn.org/thumb/20260124/bg_qebvblz3g6_1769098801235.jpg" group-title="📅 Lịch Thi Đấu: 24/01/2026", ⚽ Casa Pia AC vs AVS Futebol SAD | 03:15 24/01
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://cktv.pro/
-https://cktv.pro/match/qebvblz3g6
 #EXTINF:-1 tvg-id="ypjvkvqj3r" tvg-logo="https://yquw1225.edgemaxcdn.org/thumb/20260124/bg_ypjvkvqj3r_1769164681170.jpg" group-title="📅 Lịch Thi Đấu: 24/01/2026", ⚽ Real Santander vs Real Cartagena | 03:30 24/01
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://cktv.pro/
@@ -1303,7 +1371,7 @@ https://cktv.pro/match/l2q7lnv6xw
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://cktv.pro/
 https://cktv.pro/match/j87iek3fvk
-#EXTINF:-1 tvg-id="x0lt4qzo36" tvg-logo="https://yquw1225.edgemaxcdn.org/thumb/20260124/bg_x0lt4qzo36_1769189881094.jpg" group-title="📅 Lịch Thi Đấu: 24/01/2026", ⚽ PVF CAND vs Hoang Anh Gia Lai | 18:00 24/01
+#EXTINF:-1 tvg-id="x0lt4qzo36" tvg-logo="https://yquw1225.edgemaxcdn.org/thumb/20260124/bg_x0lt4qzo36_1769195462075.jpg" group-title="📅 Lịch Thi Đấu: 24/01/2026", ⚽ PVF CAND vs Hoang Anh Gia Lai | 18:00 24/01
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://cktv.pro/
 https://cktv.pro/match/x0lt4qzo36
@@ -1375,6 +1443,10 @@ https://cktv.pro/match/qo1lc5fluz
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://cktv.pro/
 https://cktv.pro/match/oq3nltzs64
+#EXTINF:-1 tvg-id="76k5hj9pbv" tvg-logo="https://yquw1225.edgemaxcdn.org/thumb/20260124/bg_76k5hj9pbv_1769195462075.jpg" group-title="📅 Lịch Thi Đấu: 24/01/2026", ⚽ West Ham United vs Sunderland A.F.C | 19:30 24/01
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://cktv.pro/
+https://cktv.pro/match/76k5hj9pbv
 #EXTINF:-1 tvg-id="mqn9f9xz9r" tvg-logo="https://yquw1225.edgemaxcdn.org/thumb/20260124/bg_mqn9f9xz9r_1769175721978.jpg" group-title="📅 Lịch Thi Đấu: 24/01/2026", ⚽ Middlesbrough vs Preston North End | 19:30 24/01
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://cktv.pro/
@@ -1407,6 +1479,10 @@ https://cktv.pro/match/fwnrxir407
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://cktv.pro/
 https://cktv.pro/match/88xx6k3xbq
+#EXTINF:-1 tvg-id="k8pfxbhluu" tvg-logo="https://yquw1225.edgemaxcdn.org/thumb/20260124/bg_k8pfxbhluu_1769195462075.jpg" group-title="📅 Lịch Thi Đấu: 24/01/2026", ⚽ Rayo Vallecano vs Osasuna | 20:00 24/01
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://cktv.pro/
+https://cktv.pro/match/k8pfxbhluu
 #EXTINF:-1 tvg-id="wnncrb4rpr" tvg-logo="https://yquw1225.edgemaxcdn.org/thumb/20260124/bg_wnncrb4rpr_1769175803016.jpg" group-title="📅 Lịch Thi Đấu: 24/01/2026", ⚽ Real Valladolid vs Albacete Balompié SAD | 20:00 24/01
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://cktv.pro/
@@ -1431,6 +1507,10 @@ https://cktv.pro/match/wv934xktt8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://cktv.pro/
 https://cktv.pro/match/cremccxp0j
+#EXTINF:-1 tvg-id="b45pmf3wte" tvg-logo="https://yquw1225.edgemaxcdn.org/thumb/20260124/bg_b45pmf3wte_1769195462075.jpg" group-title="📅 Lịch Thi Đấu: 24/01/2026", ⚽ Como vs Torino | 21:00 24/01
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://cktv.pro/
+https://cktv.pro/match/b45pmf3wte
 #EXTINF:-1 tvg-id="9ce48zttdh" tvg-logo="https://yquw1225.edgemaxcdn.org/thumb/20260124/bg_9ce48zttdh_1769176081319.jpg" group-title="📅 Lịch Thi Đấu: 24/01/2026", ⚽ Kisvárda Master Good FC vs MTK Budapest | 21:00 24/01
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://cktv.pro/
@@ -1455,10 +1535,42 @@ https://cktv.pro/match/x5mg1u3ngf
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://cktv.pro/
 https://cktv.pro/match/lgtvec02ic
+#EXTINF:-1 tvg-id="bvoz3psuti" tvg-logo="https://yquw1225.edgemaxcdn.org/thumb/20260124/bg_bvoz3psuti_1769195462075.jpg" group-title="📅 Lịch Thi Đấu: 24/01/2026", ⚽ Bayern Munchen vs FC Augsburg | 21:30 24/01
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://cktv.pro/
+https://cktv.pro/match/bvoz3psuti
+#EXTINF:-1 tvg-id="i5rwobzxe9" tvg-logo="https://yquw1225.edgemaxcdn.org/thumb/20260124/bg_i5rwobzxe9_1769195462075.jpg" group-title="📅 Lịch Thi Đấu: 24/01/2026", ⚽ Bayer Leverkusen vs Werder Bremen | 21:30 24/01
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://cktv.pro/
+https://cktv.pro/match/i5rwobzxe9
+#EXTINF:-1 tvg-id="23g8fgfo7b" tvg-logo="https://yquw1225.edgemaxcdn.org/thumb/20260124/bg_23g8fgfo7b_1769195462075.jpg" group-title="📅 Lịch Thi Đấu: 24/01/2026", ⚽ Eintracht Frankfurt vs TSG Hoffenheim | 21:30 24/01
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://cktv.pro/
+https://cktv.pro/match/23g8fgfo7b
+#EXTINF:-1 tvg-id="2g2g1vpo2m" tvg-logo="https://yquw1225.edgemaxcdn.org/thumb/20260124/bg_2g2g1vpo2m_1769195462075.jpg" group-title="📅 Lịch Thi Đấu: 24/01/2026", ⚽ 1. FC Heidenheim vs RB Leipzig | 21:30 24/01
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://cktv.pro/
+https://cktv.pro/match/2g2g1vpo2m
+#EXTINF:-1 tvg-id="lksrst2we4" tvg-logo="https://yquw1225.edgemaxcdn.org/thumb/20260124/bg_lksrst2we4_1769195462075.jpg" group-title="📅 Lịch Thi Đấu: 24/01/2026", ⚽ FSV Mainz 05 vs VfL Wolfsburg | 21:30 24/01
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://cktv.pro/
+https://cktv.pro/match/lksrst2we4
 #EXTINF:-1 tvg-id="9jvfd75edh" tvg-logo="https://yquw1225.edgemaxcdn.org/thumb/20260124/bg_9jvfd75edh_1769176148251.jpg" group-title="📅 Lịch Thi Đấu: 24/01/2026", ⚽ Al Kuwait SC vs Al-Arabi Club (KUW) | 21:45 24/01
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://cktv.pro/
 https://cktv.pro/match/9jvfd75edh
+#EXTINF:-1 tvg-id="v32gth7f26" tvg-logo="https://yquw1225.edgemaxcdn.org/thumb/20260124/bg_v32gth7f26_1769195462075.jpg" group-title="📅 Lịch Thi Đấu: 24/01/2026", ⚽ Burnley vs Tottenham Hotspur | 22:00 24/01
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://cktv.pro/
+https://cktv.pro/match/v32gth7f26
+#EXTINF:-1 tvg-id="9xlr9neygo" tvg-logo="https://yquw1225.edgemaxcdn.org/thumb/20260124/bg_9xlr9neygo_1769195528187.jpg" group-title="📅 Lịch Thi Đấu: 24/01/2026", ⚽ Fulham vs Brighton Hove Albion | 22:00 24/01
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://cktv.pro/
+https://cktv.pro/match/9xlr9neygo
+#EXTINF:-1 tvg-id="vd5h8c6xen" tvg-logo="https://yquw1225.edgemaxcdn.org/thumb/20260124/bg_vd5h8c6xen_1769195701544.jpg" group-title="📅 Lịch Thi Đấu: 24/01/2026", ⚽ Manchester City vs Wolves | 22:00 24/01
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://cktv.pro/
+https://cktv.pro/match/vd5h8c6xen
 #EXTINF:-1 tvg-id="kicvq7gfy2" tvg-logo="https://yquw1225.edgemaxcdn.org/thumb/20260124/bg_kicvq7gfy2_1769176148251.jpg" group-title="📅 Lịch Thi Đấu: 24/01/2026", ⚽ Blackburn Rovers vs Watford | 22:00 24/01
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://cktv.pro/
@@ -1487,6 +1599,10 @@ https://cktv.pro/match/z8itc0zugt
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://cktv.pro/
 https://cktv.pro/match/pu86cg54ll
+#EXTINF:-1 tvg-id="tjarceoy1b" tvg-logo="https://yquw1225.edgemaxcdn.org/thumb/20260124/bg_tjarceoy1b_1769195701544.jpg" group-title="📅 Lịch Thi Đấu: 24/01/2026", ⚽ Trung Quốc U23 vs Japan U23 | 22:00 24/01
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://cktv.pro/
+https://cktv.pro/match/tjarceoy1b
 #EXTINF:-1 tvg-id="mipawfbsnp" tvg-logo="https://yquw1225.edgemaxcdn.org/thumb/20260124/bg_mipawfbsnp_1769176218293.jpg" group-title="📅 Lịch Thi Đấu: 24/01/2026", ⚽ Olympique Dcheira vs DHJ Difaa Hassani Jadidi | 22:00 24/01
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://cktv.pro/
@@ -1495,6 +1611,10 @@ https://cktv.pro/match/mipawfbsnp
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://cktv.pro/
 https://cktv.pro/match/kt5x15njgy
+#EXTINF:-1 tvg-id="m90g4xta3h" tvg-logo="https://yquw1225.edgemaxcdn.org/thumb/20260124/bg_m90g4xta3h_1769195701544.jpg" group-title="📅 Lịch Thi Đấu: 24/01/2026", ⚽ Valencia vs RCD Espanyol | 22:15 24/01
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://cktv.pro/
+https://cktv.pro/match/m90g4xta3h
 #EXTINF:-1 tvg-id="tvho861ivs" tvg-logo="https://yquw1225.edgemaxcdn.org/thumb/20260124/bg_tvho861ivs_1769176218293.jpg" group-title="📅 Lịch Thi Đấu: 24/01/2026", ⚽ Leganes vs Real Sociedad B | 22:15 24/01
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://cktv.pro/
@@ -1519,6 +1639,10 @@ https://cktv.pro/match/sownmqjcdq
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://cktv.pro/
 https://cktv.pro/match/h6q9qf8y92
+#EXTINF:-1 tvg-id="4tdb0fi04d" tvg-logo="https://yquw1225.edgemaxcdn.org/thumb/20260124/bg_4tdb0fi04d_1769195701544.jpg" group-title="📅 Lịch Thi Đấu: 24/01/2026", ⚽ Stade Rennais FC vs Lorient | 23:00 24/01
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://cktv.pro/
+https://cktv.pro/match/4tdb0fi04d
 #EXTINF:-1 tvg-id="xbceay0fzp" tvg-logo="https://yquw1225.edgemaxcdn.org/thumb/20260124/bg_xbceay0fzp_1769176286121.jpg" group-title="📅 Lịch Thi Đấu: 24/01/2026", ⚽ Pendikspor vs Erzurum BB | 23:00 24/01
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://cktv.pro/
@@ -1547,7 +1671,7 @@ https://cktv.pro/match/whn93ow4vs
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://cktv.pro/
 https://cktv.pro/match/dtt5y8qyez
-#EXTINF:-1 tvg-id="lpto012x66" tvg-logo="https://yquw1225.edgemaxcdn.org/thumb/20260125/bg_lpto012x66_1768931481671.jpg" group-title="📅 Lịch Thi Đấu: 25/01/2026", ⚽ Fiorentina vs Cagliari | 00:00 25/01
+#EXTINF:-1 tvg-id="lpto012x66" tvg-logo="https://yquw1225.edgemaxcdn.org/thumb/20260125/bg_lpto012x66_1769195701544.jpg" group-title="📅 Lịch Thi Đấu: 25/01/2026", ⚽ Fiorentina vs Cagliari | 00:00 25/01
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://cktv.pro/
 https://cktv.pro/match/lpto012x66
@@ -1567,11 +1691,11 @@ https://cktv.pro/match/1lp2durbrf
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://cktv.pro/
 https://cktv.pro/match/x2yvnd5cni
-#EXTINF:-1 tvg-id="69xgh61800" tvg-logo="https://yquw1225.edgemaxcdn.org/thumb/20260125/bg_69xgh61800_1768931820815.jpg" group-title="📅 Lịch Thi Đấu: 25/01/2026", ⚽ Bournemouth AFC vs Liverpool | 00:30 25/01
+#EXTINF:-1 tvg-id="69xgh61800" tvg-logo="https://yquw1225.edgemaxcdn.org/thumb/20260125/bg_69xgh61800_1769195701544.jpg" group-title="📅 Lịch Thi Đấu: 25/01/2026", ⚽ Bournemouth AFC vs Liverpool | 00:30 25/01
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://cktv.pro/
 https://cktv.pro/match/69xgh61800
-#EXTINF:-1 tvg-id="435oh1dmku" tvg-logo="https://yquw1225.edgemaxcdn.org/thumb/20260125/bg_435oh1dmku_1768931820815.jpg" group-title="📅 Lịch Thi Đấu: 25/01/2026", ⚽ Union Berlin vs Borussia Dortmund | 00:30 25/01
+#EXTINF:-1 tvg-id="435oh1dmku" tvg-logo="https://yquw1225.edgemaxcdn.org/thumb/20260125/bg_435oh1dmku_1769195701544.jpg" group-title="📅 Lịch Thi Đấu: 25/01/2026", ⚽ Union Berlin vs Borussia Dortmund | 00:30 25/01
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://cktv.pro/
 https://cktv.pro/match/435oh1dmku
@@ -1579,7 +1703,7 @@ https://cktv.pro/match/435oh1dmku
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://cktv.pro/
 https://cktv.pro/match/uya02k6k9x
-#EXTINF:-1 tvg-id="l674le8bbd" tvg-logo="https://yquw1225.edgemaxcdn.org/thumb/20260125/bg_l674le8bbd_1768931888956.jpg" group-title="📅 Lịch Thi Đấu: 25/01/2026", ⚽ Sevilla vs Athletic Bilbao | 00:30 25/01
+#EXTINF:-1 tvg-id="l674le8bbd" tvg-logo="https://yquw1225.edgemaxcdn.org/thumb/20260125/bg_l674le8bbd_1769195701544.jpg" group-title="📅 Lịch Thi Đấu: 25/01/2026", ⚽ Sevilla vs Athletic Bilbao | 00:30 25/01
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://cktv.pro/
 https://cktv.pro/match/l674le8bbd
@@ -1603,7 +1727,7 @@ https://cktv.pro/match/zkvutazcnt
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://cktv.pro/
 https://cktv.pro/match/jcogku9l0n
-#EXTINF:-1 tvg-id="k72k0vsm14" tvg-logo="https://yquw1225.edgemaxcdn.org/thumb/20260125/bg_k72k0vsm14_1768931888956.jpg" group-title="📅 Lịch Thi Đấu: 25/01/2026", ⚽ Le Havre AC vs Monaco | 01:00 25/01
+#EXTINF:-1 tvg-id="k72k0vsm14" tvg-logo="https://yquw1225.edgemaxcdn.org/thumb/20260125/bg_k72k0vsm14_1769195701544.jpg" group-title="📅 Lịch Thi Đấu: 25/01/2026", ⚽ Le Havre AC vs Monaco | 01:00 25/01
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://cktv.pro/
 https://cktv.pro/match/k72k0vsm14
@@ -1611,7 +1735,7 @@ https://cktv.pro/match/k72k0vsm14
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://cktv.pro/
 https://cktv.pro/match/eua2uigyvv
-#EXTINF:-1 tvg-id="m1nwuddc40" tvg-logo="https://yquw1225.edgemaxcdn.org/thumb/20260125/bg_m1nwuddc40_1768931888956.jpg" group-title="📅 Lịch Thi Đấu: 25/01/2026", ⚽ FC Arouca vs Sporting CP | 01:00 25/01
+#EXTINF:-1 tvg-id="m1nwuddc40" tvg-logo="https://yquw1225.edgemaxcdn.org/thumb/20260125/bg_m1nwuddc40_1769195701544.jpg" group-title="📅 Lịch Thi Đấu: 25/01/2026", ⚽ FC Arouca vs Sporting CP | 01:00 25/01
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://cktv.pro/
 https://cktv.pro/match/m1nwuddc40
@@ -1655,7 +1779,7 @@ https://cktv.pro/match/ayft1137eu
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://cktv.pro/
 https://cktv.pro/match/c1o052t2du
-#EXTINF:-1 tvg-id="b7jbnelx03" tvg-logo="https://yquw1225.edgemaxcdn.org/thumb/20260125/bg_b7jbnelx03_1769191981283.jpg" group-title="📅 Lịch Thi Đấu: 25/01/2026", ⚽ Lecce vs Lazio | 02:45 25/01
+#EXTINF:-1 tvg-id="b7jbnelx03" tvg-logo="https://yquw1225.edgemaxcdn.org/thumb/20260125/bg_b7jbnelx03_1769195768615.jpg" group-title="📅 Lịch Thi Đấu: 25/01/2026", ⚽ Lecce vs Lazio | 02:45 25/01
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://cktv.pro/
 https://cktv.pro/match/b7jbnelx03
@@ -1667,7 +1791,7 @@ https://cktv.pro/match/p0zt8fose7
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://cktv.pro/
 https://cktv.pro/match/9m3sdv0kl9
-#EXTINF:-1 tvg-id="l6dpalodxv" tvg-logo="https://yquw1225.edgemaxcdn.org/thumb/20260125/bg_l6dpalodxv_1769192047916.jpg" group-title="📅 Lịch Thi Đấu: 25/01/2026", ⚽ Villarreal vs Real Madrid | 03:00 25/01
+#EXTINF:-1 tvg-id="l6dpalodxv" tvg-logo="https://yquw1225.edgemaxcdn.org/thumb/20260125/bg_l6dpalodxv_1769195768615.jpg" group-title="📅 Lịch Thi Đấu: 25/01/2026", ⚽ Villarreal vs Real Madrid | 03:00 25/01
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://cktv.pro/
 https://cktv.pro/match/l6dpalodxv
@@ -1679,7 +1803,7 @@ https://cktv.pro/match/85zusc7j2y
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://cktv.pro/
 https://cktv.pro/match/eeesmajmtq
-#EXTINF:-1 tvg-id="ae9iszovgf" tvg-logo="https://yquw1225.edgemaxcdn.org/thumb/20260125/bg_ae9iszovgf_1769192341348.jpg" group-title="📅 Lịch Thi Đấu: 25/01/2026", ⚽ Marseille vs Lens | 03:05 25/01
+#EXTINF:-1 tvg-id="ae9iszovgf" tvg-logo="https://yquw1225.edgemaxcdn.org/thumb/20260125/bg_ae9iszovgf_1769195768615.jpg" group-title="📅 Lịch Thi Đấu: 25/01/2026", ⚽ Marseille vs Lens | 03:05 25/01
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://cktv.pro/
 https://cktv.pro/match/ae9iszovgf
