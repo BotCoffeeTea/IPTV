@@ -1,6 +1,18 @@
 #EXTM3U
-#EXTINF:-1, 🕒 Cập nhật: 26/01/2026 07:34:16
+#EXTINF:-1, 🕒 Cập nhật: 26/01/2026 08:41:52
 http://localhost/info
+#EXTINF:-1 tvg-id="j3kozrnhu4" tvg-logo="https://yquw1225.edgemaxcdn.org/thumb/20260126/bg_j3kozrnhu4_1769416080598.jpg" group-title="🔥 Tâm Điểm", ⚽ Rail Wheel Factory FC vs AGORC Bangalore | 15:10 26/01
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://cktv.pro/
+https://cktv.pro/match/j3kozrnhu4
+#EXTINF:-1 tvg-id="non1i6znku" tvg-logo="https://yquw1225.edgemaxcdn.org/thumb/20260126/bg_non1i6znku_1769392620672.jpg" group-title="🔥 Tâm Điểm", ⚽ Kudrivka vs Fredericia | 15:30 26/01
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://cktv.pro/
+https://cktv.pro/match/non1i6znku
+#EXTINF:-1 tvg-id="xedoujbyxj" tvg-logo="https://yquw1225.edgemaxcdn.org/thumb/20260126/bg_xedoujbyxj_1769416020632.jpg" group-title="🔥 Tâm Điểm", ⚽ Dhaka Rangers FC vs Chittagong Abahani | 15:30 26/01
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://cktv.pro/
+https://cktv.pro/match/xedoujbyxj
 #EXTINF:-1 tvg-id="0twdm7gp4t" tvg-logo="https://yquw1225.edgemaxcdn.org/thumb/20260126/bg_0twdm7gp4t_1769361661352.jpg" group-title="🔥 Tâm Điểm", ⚽ Melbourne Victory vs Sydney FC | 13:40 26/01
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://cktv.pro/
@@ -25,6 +37,10 @@ https://cktv.pro/match/nmg64hjruw
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://cktv.pro/
 https://cktv.pro/match/8jtf6a6awu
+#EXTINF:-1 tvg-id="pe5h8fsuj0" tvg-logo="https://yquw1225.edgemaxcdn.org/thumb/20260126/bg_pe5h8fsuj0_1769416020632.jpg" group-title="🔥 Tâm Điểm", ⚽ Yreo FC (w) vs Myawady FC (w) | 16:00 26/01
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://cktv.pro/
+https://cktv.pro/match/pe5h8fsuj0
 #EXTINF:-1 tvg-id="is60zpnh80" tvg-logo="https://yquw1225.edgemaxcdn.org/thumb/20260126/bg_is60zpnh80_1769349421216.jpg" group-title="🔥 Tâm Điểm", ⚽ Ethio Electric FC vs Wolaita Dicha | 20:00 26/01
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://cktv.pro/
@@ -33,22 +49,18 @@ https://cktv.pro/match/is60zpnh80
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://cktv.pro/
 https://cktv.pro/match/sfsfcjfy9w
-#EXTINF:-1 tvg-id="mqr2gglziw" tvg-logo="https://yquw1225.edgemaxcdn.org/thumb/20260126/bg_mqr2gglziw_1769361728823.jpg" group-title="🔥 Tâm Điểm", ⚽ Muaidar SC vs Al-Khuraitiat | 20:30 26/01
+#EXTINF:-1 tvg-id="j3kozrnhu4" tvg-logo="https://yquw1225.edgemaxcdn.org/thumb/20260126/bg_j3kozrnhu4_1769416080598.jpg" group-title="⚽ Bóng đá", ⚽ Rail Wheel Factory FC vs AGORC Bangalore | 15:10 26/01
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://cktv.pro/
-https://cktv.pro/match/mqr2gglziw
-#EXTINF:-1 tvg-id="dn6gs1r9dc" tvg-logo="https://yquw1225.edgemaxcdn.org/thumb/20260126/bg_dn6gs1r9dc_1769349421216.jpg" group-title="🔥 Tâm Điểm", ⚽ Al Gharraf vs Baghdad | 21:30 26/01
+https://cktv.pro/match/j3kozrnhu4
+#EXTINF:-1 tvg-id="non1i6znku" tvg-logo="https://yquw1225.edgemaxcdn.org/thumb/20260126/bg_non1i6znku_1769392620672.jpg" group-title="⚽ Bóng đá", ⚽ Kudrivka vs Fredericia | 15:30 26/01
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://cktv.pro/
-https://cktv.pro/match/dn6gs1r9dc
-#EXTINF:-1 tvg-id="ik62kwr3eo" tvg-logo="https://yquw1225.edgemaxcdn.org/thumb/20260126/bg_ik62kwr3eo_1769361728823.jpg" group-title="🔥 Tâm Điểm", ⚽ Jubail vs Al Zulfi | 21:55 26/01
+https://cktv.pro/match/non1i6znku
+#EXTINF:-1 tvg-id="xedoujbyxj" tvg-logo="https://yquw1225.edgemaxcdn.org/thumb/20260126/bg_xedoujbyxj_1769416020632.jpg" group-title="⚽ Bóng đá", ⚽ Dhaka Rangers FC vs Chittagong Abahani | 15:30 26/01
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://cktv.pro/
-https://cktv.pro/match/ik62kwr3eo
-#EXTINF:-1 tvg-id="j3qwg3ci87" tvg-logo="https://yquw1225.edgemaxcdn.org/thumb/20260126/bg_j3qwg3ci87_1769361728823.jpg" group-title="🔥 Tâm Điểm", ⚽ FC Otelul Galati vs FK Csikszereda Miercurea Ciuc | 22:00 26/01
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://cktv.pro/
-https://cktv.pro/match/j3qwg3ci87
+https://cktv.pro/match/xedoujbyxj
 #EXTINF:-1 tvg-id="0twdm7gp4t" tvg-logo="https://yquw1225.edgemaxcdn.org/thumb/20260126/bg_0twdm7gp4t_1769361661352.jpg" group-title="⚽ Bóng đá", ⚽ Melbourne Victory vs Sydney FC | 13:40 26/01
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://cktv.pro/
@@ -77,6 +89,10 @@ https://cktv.pro/match/v7w3xa6bgd
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://cktv.pro/
 https://cktv.pro/match/8jtf6a6awu
+#EXTINF:-1 tvg-id="pe5h8fsuj0" tvg-logo="https://yquw1225.edgemaxcdn.org/thumb/20260126/bg_pe5h8fsuj0_1769416020632.jpg" group-title="⚽ Bóng đá", ⚽ Yreo FC (w) vs Myawady FC (w) | 16:00 26/01
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://cktv.pro/
+https://cktv.pro/match/pe5h8fsuj0
 #EXTINF:-1 tvg-id="is60zpnh80" tvg-logo="https://yquw1225.edgemaxcdn.org/thumb/20260126/bg_is60zpnh80_1769349421216.jpg" group-title="⚽ Bóng đá", ⚽ Ethio Electric FC vs Wolaita Dicha | 20:00 26/01
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://cktv.pro/
@@ -231,20 +247,32 @@ https://cktv.pro/match/xc1z2uql2o
 https://cktv.pro/match/ziyeiudg5u
 #EXTINF:-1 tvg-id="thapcamtv" tvg-logo="https://thapcamiptv.com/10cam-logo-app-light.jpg" group-title="⚡ Nội dung hấp dẫn - Giải trí không giới hạn! ⚡", ThapcamTV
 https://tctv.pro
+#EXTINF:-1 tvg-id="otruyen" tvg-logo="https://otruyen-iptv.khotruyen.link/logo.png" group-title="⚡ Nội dung hấp dẫn - Giải trí không giới hạn! ⚡", Ổ Truyện
+https://otruyen-iptv.khotruyen.link
+#EXTINF:-1 tvg-id="truyenhinh" tvg-logo="https://iptv.nhadai.org/logo.png" group-title="⚡ Nội dung hấp dẫn - Giải trí không giới hạn! ⚡", FPT
+https://iptv.nhadai.org/v1
+#EXTINF:-1 tvg-id="vebotv" tvg-logo="https://vebo.thethaoiptv.com/vebo-icon.png" group-title="⚡ Nội dung hấp dẫn - Giải trí không giới hạn! ⚡", VeboTV
+https://vbtv.pro
 #EXTINF:-1 tvg-id="hangtruyen" tvg-logo="https://ht.khotruyen.link/images/hangtruyen.png" group-title="⚡ Nội dung hấp dẫn - Giải trí không giới hạn! ⚡", Hang Truyện
 https://ht.khotruyen.link
+#EXTINF:-1 tvg-id="kkphim" tvg-logo="https://kk.moviedb.dev/images/logo.png" group-title="⚡ Nội dung hấp dẫn - Giải trí không giới hạn! ⚡", Kkphim
+https://kk.moviedb.dev
 #EXTINF:-1 tvg-id="ophim" tvg-logo="https://op.moviedb.dev/images/logo.png" group-title="⚡ Nội dung hấp dẫn - Giải trí không giới hạn! ⚡", Ophim
 https://op.moviedb.dev
 #EXTINF:-1 tvg-id="newtruyenhot" tvg-logo="https://newtruyenhot.4share.me/static/img/logo-newtruyenhot.png" group-title="⚡ Nội dung hấp dẫn - Giải trí không giới hạn! ⚡", NewTruyenHot
 https://newtruyenhot.4share.me
-#EXTINF:-1 tvg-id="truyenhinh" tvg-logo="https://iptv.nhadai.org/logo.png" group-title="⚡ Nội dung hấp dẫn - Giải trí không giới hạn! ⚡", FPT
-https://iptv.nhadai.org/v1
-#EXTINF:-1 tvg-id="kkphim" tvg-logo="https://kk.moviedb.dev/images/logo.png" group-title="⚡ Nội dung hấp dẫn - Giải trí không giới hạn! ⚡", Kkphim
-https://kk.moviedb.dev
-#EXTINF:-1 tvg-id="vebotv" tvg-logo="https://vebo.thethaoiptv.com/vebo-icon.png" group-title="⚡ Nội dung hấp dẫn - Giải trí không giới hạn! ⚡", VeboTV
-https://vbtv.pro
-#EXTINF:-1 tvg-id="otruyen" tvg-logo="https://otruyen-iptv.khotruyen.link/logo.png" group-title="⚡ Nội dung hấp dẫn - Giải trí không giới hạn! ⚡", Ổ Truyện
-https://otruyen-iptv.khotruyen.link
+#EXTINF:-1 tvg-id="j3kozrnhu4" tvg-logo="https://yquw1225.edgemaxcdn.org/thumb/20260126/bg_j3kozrnhu4_1769416080598.jpg" group-title="📅 Lịch Thi Đấu: 26/01/2026", ⚽ Rail Wheel Factory FC vs AGORC Bangalore | 15:10 26/01
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://cktv.pro/
+https://cktv.pro/match/j3kozrnhu4
+#EXTINF:-1 tvg-id="non1i6znku" tvg-logo="https://yquw1225.edgemaxcdn.org/thumb/20260126/bg_non1i6znku_1769392620672.jpg" group-title="📅 Lịch Thi Đấu: 26/01/2026", ⚽ Kudrivka vs Fredericia | 15:30 26/01
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://cktv.pro/
+https://cktv.pro/match/non1i6znku
+#EXTINF:-1 tvg-id="xedoujbyxj" tvg-logo="https://yquw1225.edgemaxcdn.org/thumb/20260126/bg_xedoujbyxj_1769416020632.jpg" group-title="📅 Lịch Thi Đấu: 26/01/2026", ⚽ Dhaka Rangers FC vs Chittagong Abahani | 15:30 26/01
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://cktv.pro/
+https://cktv.pro/match/xedoujbyxj
 #EXTINF:-1 tvg-id="0twdm7gp4t" tvg-logo="https://yquw1225.edgemaxcdn.org/thumb/20260126/bg_0twdm7gp4t_1769361661352.jpg" group-title="📅 Lịch Thi Đấu: 26/01/2026", ⚽ Melbourne Victory vs Sydney FC | 13:40 26/01
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://cktv.pro/
@@ -273,6 +301,10 @@ https://cktv.pro/match/v7w3xa6bgd
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://cktv.pro/
 https://cktv.pro/match/8jtf6a6awu
+#EXTINF:-1 tvg-id="pe5h8fsuj0" tvg-logo="https://yquw1225.edgemaxcdn.org/thumb/20260126/bg_pe5h8fsuj0_1769416020632.jpg" group-title="📅 Lịch Thi Đấu: 26/01/2026", ⚽ Yreo FC (w) vs Myawady FC (w) | 16:00 26/01
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://cktv.pro/
+https://cktv.pro/match/pe5h8fsuj0
 #EXTINF:-1 tvg-id="is60zpnh80" tvg-logo="https://yquw1225.edgemaxcdn.org/thumb/20260126/bg_is60zpnh80_1769349421216.jpg" group-title="📅 Lịch Thi Đấu: 26/01/2026", ⚽ Ethio Electric FC vs Wolaita Dicha | 20:00 26/01
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://cktv.pro/
