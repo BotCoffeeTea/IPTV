@@ -1,26 +1,22 @@
 #EXTM3U
-#EXTINF:-1, 🕒 Cập nhật: 27/01/2026 04:11:34
+#EXTINF:-1, 🕒 Cập nhật: 27/01/2026 05:34:25
 http://localhost/info
-#EXTINF:-1 tvg-id="32q6u3nj0q" tvg-logo="https://yquw1225.edgemaxcdn.org/thumb/20260127/bg_32q6u3nj0q_1769444940809.jpg" group-title="🔥 Tâm Điểm", ⚽ Minnesota Timberwolves vs Golden State Warriors | 09:30 27/01
+#EXTINF:-1 tvg-id="xx6y4vc8tg" tvg-logo="https://yquw1225.edgemaxcdn.org/thumb/20260127/bg_xx6y4vc8tg_1769491801455.jpg" group-title="🔥 Tâm Điểm", ⚽ Chirag United Kerala vs FA Odisha | 15:30 27/01
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://cktv.pro/
-https://cktv.pro/match/32q6u3nj0q
-#EXTINF:-1 tvg-id="o8ebs5pc0l" tvg-logo="https://yquw1225.edgemaxcdn.org/thumb/20260127/bg_o8ebs5pc0l_1769444940809.jpg" group-title="🔥 Tâm Điểm", ⚽ Perez Zeledon vs Sporting San Jose | 09:00 27/01
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://cktv.pro/
-https://cktv.pro/match/o8ebs5pc0l
-#EXTINF:-1 tvg-id="x9qv62s6he" tvg-logo="https://yquw1225.edgemaxcdn.org/thumb/20260127/bg_x9qv62s6he_1769444940809.jpg" group-title="🔥 Tâm Điểm", ⚽ Indian Air Force vs United Bharat FC | 15:30 27/01
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://cktv.pro/
-https://cktv.pro/match/x9qv62s6he
+https://cktv.pro/match/xx6y4vc8tg
 #EXTINF:-1 tvg-id="fc3ziyfavk" tvg-logo="https://yquw1225.edgemaxcdn.org/thumb/20260127/bg_fc3ziyfavk_1769444940809.jpg" group-title="🔥 Tâm Điểm", ⚽ Brisbane Wolves vs St George Willawong FC | 16:30 27/01
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://cktv.pro/
 https://cktv.pro/match/fc3ziyfavk
-#EXTINF:-1 tvg-id="w8z9i540gp" tvg-logo="https://yquw1225.edgemaxcdn.org/thumb/20260127/bg_w8z9i540gp_1769445480899.jpg" group-title="🔥 Tâm Điểm", ⚽ Warriors Football Club vs Ajmal FC | 12:30 27/01
+#EXTINF:-1 tvg-id="t2nrv4lrta" tvg-logo="https://yquw1225.edgemaxcdn.org/thumb/20260127/bg_t2nrv4lrta_1769445241208.jpg" group-title="🔥 Tâm Điểm", ⚽ Benfica U23 vs Santa Clara U23 | 18:00 27/01
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://cktv.pro/
-https://cktv.pro/match/w8z9i540gp
+https://cktv.pro/match/t2nrv4lrta
+#EXTINF:-1 tvg-id="bzmlgpojx9" tvg-logo="https://yquw1225.edgemaxcdn.org/thumb/20260127/bg_bzmlgpojx9_1769481540813.jpg" group-title="🔥 Tâm Điểm", ⚽ Aluminium Arak vs Tractor S.C. | 18:00 27/01
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://cktv.pro/
+https://cktv.pro/match/bzmlgpojx9
 #EXTINF:-1 tvg-id="qzwi4qkdhn" tvg-logo="https://yquw1225.edgemaxcdn.org/thumb/20260127/bg_qzwi4qkdhn_1769417235491.jpg" group-title="🔥 Tâm Điểm", ⚽ Thailand Futsal vs Lebanon Futsal | 13:00 27/01
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://cktv.pro/
@@ -29,10 +25,6 @@ https://cktv.pro/match/qzwi4qkdhn
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://cktv.pro/
 https://cktv.pro/match/343xc3vnsd
-#EXTINF:-1 tvg-id="xx6y4vc8tg" tvg-logo="https://yquw1225.edgemaxcdn.org/thumb/20260127/bg_xx6y4vc8tg_1769445480899.jpg" group-title="🔥 Tâm Điểm", ⚽ Chirag United Kerala vs FA Odisha | 15:30 27/01
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://cktv.pro/
-https://cktv.pro/match/xx6y4vc8tg
 #EXTINF:-1 tvg-id="hekesof8b8" tvg-logo="https://yquw1225.edgemaxcdn.org/thumb/20260127/bg_hekesof8b8_1769445480899.jpg" group-title="🔥 Tâm Điểm", ⚽ Ayeyawady Utd (W) vs Shan Utd (W) | 16:00 27/01
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://cktv.pro/
@@ -49,18 +41,18 @@ https://cktv.pro/match/r1amxfsogc
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://cktv.pro/
 https://cktv.pro/match/76dscmdrfe
-#EXTINF:-1 tvg-id="32q6u3nj0q" tvg-logo="https://yquw1225.edgemaxcdn.org/thumb/20260127/bg_32q6u3nj0q_1769444940809.jpg" group-title="⚽ Bóng đá", ⚽ Minnesota Timberwolves vs Golden State Warriors | 09:30 27/01
+#EXTINF:-1 tvg-id="h5cnfrzen4" tvg-logo="https://yquw1225.edgemaxcdn.org/thumb/20260127/bg_h5cnfrzen4_1769469961258.jpg" group-title="🔥 Tâm Điểm", ⚽ Halide Edip Adivarspor vs Elazigspor | 19:00 27/01
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://cktv.pro/
-https://cktv.pro/match/32q6u3nj0q
-#EXTINF:-1 tvg-id="o8ebs5pc0l" tvg-logo="https://yquw1225.edgemaxcdn.org/thumb/20260127/bg_o8ebs5pc0l_1769444940809.jpg" group-title="⚽ Bóng đá", ⚽ Perez Zeledon vs Sporting San Jose | 09:00 27/01
+https://cktv.pro/match/h5cnfrzen4
+#EXTINF:-1 tvg-id="smrwwpfgt8" tvg-logo="https://yquw1225.edgemaxcdn.org/thumb/20260127/bg_smrwwpfgt8_1769445480899.jpg" group-title="🔥 Tâm Điểm", ⚽ Sheger Ketema vs Dire Dawa | 19:00 27/01
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://cktv.pro/
-https://cktv.pro/match/o8ebs5pc0l
-#EXTINF:-1 tvg-id="x9qv62s6he" tvg-logo="https://yquw1225.edgemaxcdn.org/thumb/20260127/bg_x9qv62s6he_1769444940809.jpg" group-title="⚽ Bóng đá", ⚽ Indian Air Force vs United Bharat FC | 15:30 27/01
+https://cktv.pro/match/smrwwpfgt8
+#EXTINF:-1 tvg-id="xx6y4vc8tg" tvg-logo="https://yquw1225.edgemaxcdn.org/thumb/20260127/bg_xx6y4vc8tg_1769491801455.jpg" group-title="⚽ Bóng đá", ⚽ Chirag United Kerala vs FA Odisha | 15:30 27/01
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://cktv.pro/
-https://cktv.pro/match/x9qv62s6he
+https://cktv.pro/match/xx6y4vc8tg
 #EXTINF:-1 tvg-id="fc3ziyfavk" tvg-logo="https://yquw1225.edgemaxcdn.org/thumb/20260127/bg_fc3ziyfavk_1769444940809.jpg" group-title="⚽ Bóng đá", ⚽ Brisbane Wolves vs St George Willawong FC | 16:30 27/01
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://cktv.pro/
@@ -73,10 +65,14 @@ https://cktv.pro/match/t2nrv4lrta
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://cktv.pro/
 https://cktv.pro/match/bzmlgpojx9
-#EXTINF:-1 tvg-id="w8z9i540gp" tvg-logo="https://yquw1225.edgemaxcdn.org/thumb/20260127/bg_w8z9i540gp_1769445480899.jpg" group-title="⚽ Bóng đá", ⚽ Warriors Football Club vs Ajmal FC | 12:30 27/01
+#EXTINF:-1 tvg-id="jlvgjq7t44" tvg-logo="https://yquw1225.edgemaxcdn.org/thumb/20260127/bg_jlvgjq7t44_1769445480899.jpg" group-title="⚽ Bóng đá", ⚽ Al Karkh vs Arbil | 19:00 27/01
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://cktv.pro/
-https://cktv.pro/match/w8z9i540gp
+https://cktv.pro/match/jlvgjq7t44
+#EXTINF:-1 tvg-id="lr85ws3ox3" tvg-logo="https://yquw1225.edgemaxcdn.org/thumb/20260127/bg_lr85ws3ox3_1769445241208.jpg" group-title="⚽ Bóng đá", ⚽ Abha vs Al-Jabalain | 19:55 27/01
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://cktv.pro/
+https://cktv.pro/match/lr85ws3ox3
 #EXTINF:-1 tvg-id="qzwi4qkdhn" tvg-logo="https://yquw1225.edgemaxcdn.org/thumb/20260127/bg_qzwi4qkdhn_1769417235491.jpg" group-title="⚽ Bóng đá", ⚽ Thailand Futsal vs Lebanon Futsal | 13:00 27/01
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://cktv.pro/
@@ -85,10 +81,6 @@ https://cktv.pro/match/qzwi4qkdhn
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://cktv.pro/
 https://cktv.pro/match/343xc3vnsd
-#EXTINF:-1 tvg-id="xx6y4vc8tg" tvg-logo="https://yquw1225.edgemaxcdn.org/thumb/20260127/bg_xx6y4vc8tg_1769445480899.jpg" group-title="⚽ Bóng đá", ⚽ Chirag United Kerala vs FA Odisha | 15:30 27/01
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://cktv.pro/
-https://cktv.pro/match/xx6y4vc8tg
 #EXTINF:-1 tvg-id="hekesof8b8" tvg-logo="https://yquw1225.edgemaxcdn.org/thumb/20260127/bg_hekesof8b8_1769445480899.jpg" group-title="⚽ Bóng đá", ⚽ Ayeyawady Utd (W) vs Shan Utd (W) | 16:00 27/01
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://cktv.pro/
@@ -113,10 +105,6 @@ https://cktv.pro/match/h5cnfrzen4
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://cktv.pro/
 https://cktv.pro/match/smrwwpfgt8
-#EXTINF:-1 tvg-id="jlvgjq7t44" tvg-logo="https://yquw1225.edgemaxcdn.org/thumb/20260127/bg_jlvgjq7t44_1769445480899.jpg" group-title="⚽ Bóng đá", ⚽ Al Karkh vs Arbil | 19:00 27/01
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://cktv.pro/
-https://cktv.pro/match/jlvgjq7t44
 #EXTINF:-1 tvg-id="38fky4kaqx" tvg-logo="https://yquw1225.edgemaxcdn.org/thumb/20260127/bg_38fky4kaqx_1769445480899.jpg" group-title="⚽ Bóng đá", ⚽ AL Najaf vs Zakho | 19:00 27/01
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://cktv.pro/
@@ -125,10 +113,6 @@ https://cktv.pro/match/38fky4kaqx
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://cktv.pro/
 https://cktv.pro/match/iquthizgop
-#EXTINF:-1 tvg-id="lr85ws3ox3" tvg-logo="https://yquw1225.edgemaxcdn.org/thumb/20260127/bg_lr85ws3ox3_1769445241208.jpg" group-title="⚽ Bóng đá", ⚽ Abha vs Al-Jabalain | 19:55 27/01
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://cktv.pro/
-https://cktv.pro/match/lr85ws3ox3
 #EXTINF:-1 tvg-id="pmzmq473i6" tvg-logo="https://yquw1225.edgemaxcdn.org/thumb/20260127/bg_pmzmq473i6_1769445241208.jpg" group-title="⚽ Bóng đá", ⚽ Ittihad Kalba FC vs Al-Ain SFC | 20:15 27/01
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://cktv.pro/
@@ -357,38 +341,30 @@ https://cktv.pro/match/7jjbwdyh5h
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://cktv.pro/
 https://cktv.pro/match/xc1z2uql2o
-#EXTINF:-1 tvg-id="vebotv" tvg-logo="https://vebo.thethaoiptv.com/vebo-icon.png" group-title="⚡ Nội dung hấp dẫn - Giải trí không giới hạn! ⚡", VeboTV
-https://vbtv.pro
-#EXTINF:-1 tvg-id="kkphim" tvg-logo="https://kk.hdpe.pro/images/logo.png" group-title="⚡ Nội dung hấp dẫn - Giải trí không giới hạn! ⚡", Kkphim
-https://kk.hdpe.pro
-#EXTINF:-1 tvg-id="thapcamtv" tvg-logo="https://thapcamiptv.com/10cam-logo-app-light.jpg" group-title="⚡ Nội dung hấp dẫn - Giải trí không giới hạn! ⚡", ThapcamTV
-https://tctv.pro
-#EXTINF:-1 tvg-id="ophim" tvg-logo="https://op.hdpe.pro/images/logo.png" group-title="⚡ Nội dung hấp dẫn - Giải trí không giới hạn! ⚡", Ophim
-https://op.hdpe.pro
 #EXTINF:-1 tvg-id="vtvgo" tvg-logo="https://web-cache-aws.vtvdigital.vn/assets/images/logo-app.png" group-title="⚡ Nội dung hấp dẫn - Giải trí không giới hạn! ⚡", VTVGO
 https://vtvgo.4share.me/v1
-#EXTINF:-1 tvg-id="truyenhinh" tvg-logo="https://iptv.nhadai.org/logo.png" group-title="⚡ Nội dung hấp dẫn - Giải trí không giới hạn! ⚡", FPT
-https://iptv.nhadai.org/v1
-#EXTINF:-1 tvg-id="otruyen" tvg-logo="https://otruyen-iptv.khotruyen.link/logo.png" group-title="⚡ Nội dung hấp dẫn - Giải trí không giới hạn! ⚡", Ổ Truyện
-https://otruyen-iptv.khotruyen.link
-#EXTINF:-1 tvg-id="hangtruyen" tvg-logo="https://ht.khotruyen.link/images/hangtruyen.png" group-title="⚡ Nội dung hấp dẫn - Giải trí không giới hạn! ⚡", Hang Truyện
-https://ht.khotruyen.link
+#EXTINF:-1 tvg-id="kkphim" tvg-logo="https://kk.hdpe.pro/images/logo.png" group-title="⚡ Nội dung hấp dẫn - Giải trí không giới hạn! ⚡", Kkphim
+https://kk.hdpe.pro
 #EXTINF:-1 tvg-id="newtruyenhot" tvg-logo="https://newtruyenhot.4share.me/static/img/logo-newtruyenhot.png" group-title="⚡ Nội dung hấp dẫn - Giải trí không giới hạn! ⚡", NewTruyenHot
 https://newtruyenhot.4share.me
 #EXTINF:-1 tvg-id="nguonc" tvg-logo="https://nc.hdpe.pro/images/logo.png" group-title="⚡ Nội dung hấp dẫn - Giải trí không giới hạn! ⚡", NguonC
 https://nc.hdpe.pro
-#EXTINF:-1 tvg-id="32q6u3nj0q" tvg-logo="https://yquw1225.edgemaxcdn.org/thumb/20260127/bg_32q6u3nj0q_1769444940809.jpg" group-title="📅 Lịch Thi Đấu: 27/01/2026", ⚽ Minnesota Timberwolves vs Golden State Warriors | 09:30 27/01
+#EXTINF:-1 tvg-id="otruyen" tvg-logo="https://otruyen-iptv.khotruyen.link/logo.png" group-title="⚡ Nội dung hấp dẫn - Giải trí không giới hạn! ⚡", Ổ Truyện
+https://otruyen-iptv.khotruyen.link
+#EXTINF:-1 tvg-id="thapcamtv" tvg-logo="https://thapcamiptv.com/10cam-logo-app-light.jpg" group-title="⚡ Nội dung hấp dẫn - Giải trí không giới hạn! ⚡", ThapcamTV
+https://tctv.pro
+#EXTINF:-1 tvg-id="ophim" tvg-logo="https://op.hdpe.pro/images/logo.png" group-title="⚡ Nội dung hấp dẫn - Giải trí không giới hạn! ⚡", Ophim
+https://op.hdpe.pro
+#EXTINF:-1 tvg-id="hangtruyen" tvg-logo="https://ht.khotruyen.link/images/hangtruyen.png" group-title="⚡ Nội dung hấp dẫn - Giải trí không giới hạn! ⚡", Hang Truyện
+https://ht.khotruyen.link
+#EXTINF:-1 tvg-id="truyenhinh" tvg-logo="https://iptv.nhadai.org/logo.png" group-title="⚡ Nội dung hấp dẫn - Giải trí không giới hạn! ⚡", FPT
+https://iptv.nhadai.org/v1
+#EXTINF:-1 tvg-id="vebotv" tvg-logo="https://vebo.thethaoiptv.com/vebo-icon.png" group-title="⚡ Nội dung hấp dẫn - Giải trí không giới hạn! ⚡", VeboTV
+https://vbtv.pro
+#EXTINF:-1 tvg-id="xx6y4vc8tg" tvg-logo="https://yquw1225.edgemaxcdn.org/thumb/20260127/bg_xx6y4vc8tg_1769491801455.jpg" group-title="📅 Lịch Thi Đấu: 27/01/2026", ⚽ Chirag United Kerala vs FA Odisha | 15:30 27/01
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://cktv.pro/
-https://cktv.pro/match/32q6u3nj0q
-#EXTINF:-1 tvg-id="o8ebs5pc0l" tvg-logo="https://yquw1225.edgemaxcdn.org/thumb/20260127/bg_o8ebs5pc0l_1769444940809.jpg" group-title="📅 Lịch Thi Đấu: 27/01/2026", ⚽ Perez Zeledon vs Sporting San Jose | 09:00 27/01
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://cktv.pro/
-https://cktv.pro/match/o8ebs5pc0l
-#EXTINF:-1 tvg-id="x9qv62s6he" tvg-logo="https://yquw1225.edgemaxcdn.org/thumb/20260127/bg_x9qv62s6he_1769444940809.jpg" group-title="📅 Lịch Thi Đấu: 27/01/2026", ⚽ Indian Air Force vs United Bharat FC | 15:30 27/01
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://cktv.pro/
-https://cktv.pro/match/x9qv62s6he
+https://cktv.pro/match/xx6y4vc8tg
 #EXTINF:-1 tvg-id="fc3ziyfavk" tvg-logo="https://yquw1225.edgemaxcdn.org/thumb/20260127/bg_fc3ziyfavk_1769444940809.jpg" group-title="📅 Lịch Thi Đấu: 27/01/2026", ⚽ Brisbane Wolves vs St George Willawong FC | 16:30 27/01
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://cktv.pro/
@@ -401,10 +377,14 @@ https://cktv.pro/match/t2nrv4lrta
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://cktv.pro/
 https://cktv.pro/match/bzmlgpojx9
-#EXTINF:-1 tvg-id="w8z9i540gp" tvg-logo="https://yquw1225.edgemaxcdn.org/thumb/20260127/bg_w8z9i540gp_1769445480899.jpg" group-title="📅 Lịch Thi Đấu: 27/01/2026", ⚽ Warriors Football Club vs Ajmal FC | 12:30 27/01
+#EXTINF:-1 tvg-id="jlvgjq7t44" tvg-logo="https://yquw1225.edgemaxcdn.org/thumb/20260127/bg_jlvgjq7t44_1769445480899.jpg" group-title="📅 Lịch Thi Đấu: 27/01/2026", ⚽ Al Karkh vs Arbil | 19:00 27/01
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://cktv.pro/
-https://cktv.pro/match/w8z9i540gp
+https://cktv.pro/match/jlvgjq7t44
+#EXTINF:-1 tvg-id="lr85ws3ox3" tvg-logo="https://yquw1225.edgemaxcdn.org/thumb/20260127/bg_lr85ws3ox3_1769445241208.jpg" group-title="📅 Lịch Thi Đấu: 27/01/2026", ⚽ Abha vs Al-Jabalain | 19:55 27/01
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://cktv.pro/
+https://cktv.pro/match/lr85ws3ox3
 #EXTINF:-1 tvg-id="qzwi4qkdhn" tvg-logo="https://yquw1225.edgemaxcdn.org/thumb/20260127/bg_qzwi4qkdhn_1769417235491.jpg" group-title="📅 Lịch Thi Đấu: 27/01/2026", ⚽ Thailand Futsal vs Lebanon Futsal | 13:00 27/01
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://cktv.pro/
@@ -413,10 +393,6 @@ https://cktv.pro/match/qzwi4qkdhn
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://cktv.pro/
 https://cktv.pro/match/343xc3vnsd
-#EXTINF:-1 tvg-id="xx6y4vc8tg" tvg-logo="https://yquw1225.edgemaxcdn.org/thumb/20260127/bg_xx6y4vc8tg_1769445480899.jpg" group-title="📅 Lịch Thi Đấu: 27/01/2026", ⚽ Chirag United Kerala vs FA Odisha | 15:30 27/01
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://cktv.pro/
-https://cktv.pro/match/xx6y4vc8tg
 #EXTINF:-1 tvg-id="hekesof8b8" tvg-logo="https://yquw1225.edgemaxcdn.org/thumb/20260127/bg_hekesof8b8_1769445480899.jpg" group-title="📅 Lịch Thi Đấu: 27/01/2026", ⚽ Ayeyawady Utd (W) vs Shan Utd (W) | 16:00 27/01
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://cktv.pro/
@@ -441,10 +417,6 @@ https://cktv.pro/match/h5cnfrzen4
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://cktv.pro/
 https://cktv.pro/match/smrwwpfgt8
-#EXTINF:-1 tvg-id="jlvgjq7t44" tvg-logo="https://yquw1225.edgemaxcdn.org/thumb/20260127/bg_jlvgjq7t44_1769445480899.jpg" group-title="📅 Lịch Thi Đấu: 27/01/2026", ⚽ Al Karkh vs Arbil | 19:00 27/01
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://cktv.pro/
-https://cktv.pro/match/jlvgjq7t44
 #EXTINF:-1 tvg-id="38fky4kaqx" tvg-logo="https://yquw1225.edgemaxcdn.org/thumb/20260127/bg_38fky4kaqx_1769445480899.jpg" group-title="📅 Lịch Thi Đấu: 27/01/2026", ⚽ AL Najaf vs Zakho | 19:00 27/01
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://cktv.pro/
@@ -453,10 +425,6 @@ https://cktv.pro/match/38fky4kaqx
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://cktv.pro/
 https://cktv.pro/match/iquthizgop
-#EXTINF:-1 tvg-id="lr85ws3ox3" tvg-logo="https://yquw1225.edgemaxcdn.org/thumb/20260127/bg_lr85ws3ox3_1769445241208.jpg" group-title="📅 Lịch Thi Đấu: 27/01/2026", ⚽ Abha vs Al-Jabalain | 19:55 27/01
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://cktv.pro/
-https://cktv.pro/match/lr85ws3ox3
 #EXTINF:-1 tvg-id="pmzmq473i6" tvg-logo="https://yquw1225.edgemaxcdn.org/thumb/20260127/bg_pmzmq473i6_1769445241208.jpg" group-title="📅 Lịch Thi Đấu: 27/01/2026", ⚽ Ittihad Kalba FC vs Al-Ain SFC | 20:15 27/01
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://cktv.pro/
