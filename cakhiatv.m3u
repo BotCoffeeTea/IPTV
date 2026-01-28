@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1, 🕒 Cập nhật: 28/01/2026 15:40:01
+#EXTINF:-1, 🕒 Cập nhật: 28/01/2026 16:48:07
 http://localhost/info
 #EXTINF:-1 tvg-id="6v3nbqc4sy" tvg-logo="https://yquw1225.edgemaxcdn.org/thumb/20260128/bg_6v3nbqc4sy_1769612403862.jpg" group-title="🔥 Tâm Điểm", ⚽ Al Najma(KSA) vs Al-Riyadh | 22:20 28/01
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
@@ -13,18 +13,14 @@ https://cktv.pro/match/scatfhvihn
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://cktv.pro/
 https://cktv.pro/match/mun9c71gn4
-#EXTINF:-1 tvg-id="6esnghodiy" tvg-logo="https://yquw1225.edgemaxcdn.org/thumb/20260128/bg_6esnghodiy_1769533086856.jpg" group-title="🔥 Tâm Điểm", ⚽ Ispartaspor vs Menemen Belediye Spor | 21:00 28/01
+#EXTINF:-1 tvg-id="geeq0hof4k" tvg-logo="https://yquw1225.edgemaxcdn.org/thumb/20260128/bg_geeq0hof4k_1769528290811.jpg" group-title="🔥 Tâm Điểm", ⚽ Al-Wasl SC vs Khor Fakkan SSC | 23:00 28/01
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://cktv.pro/
-https://cktv.pro/match/6esnghodiy
-#EXTINF:-1 tvg-id="dv15jgm9oi" tvg-logo="https://yquw1225.edgemaxcdn.org/thumb/20260128/bg_dv15jgm9oi_1769533086856.jpg" group-title="🔥 Tâm Điểm", ⚽ Duhok vs Al Zawraa | 21:30 28/01
+https://cktv.pro/match/geeq0hof4k
+#EXTINF:-1 tvg-id="zad02po0gh" tvg-logo="https://yquw1225.edgemaxcdn.org/thumb/20260128/bg_zad02po0gh_1769528290811.jpg" group-title="🔥 Tâm Điểm", ⚽ Al-Arabi Club (KUW) vs Al-Qadsia SC | 23:30 28/01
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://cktv.pro/
-https://cktv.pro/match/dv15jgm9oi
-#EXTINF:-1 tvg-id="6hqzun61xp" tvg-logo="https://yquw1225.edgemaxcdn.org/thumb/20260128/bg_6hqzun61xp_1769533086856.jpg" group-title="🔥 Tâm Điểm", ⚽ AI Kahrabaa vs Al Quwa Al Jawiya | 21:30 28/01
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://cktv.pro/
-https://cktv.pro/match/6hqzun61xp
+https://cktv.pro/match/zad02po0gh
 #EXTINF:-1 tvg-id="er7fc918wy" tvg-logo="https://yquw1225.edgemaxcdn.org/thumb/20260128/bg_er7fc918wy_1769533156359.jpg" group-title="🔥 Tâm Điểm", ⚽ Estrela FC U23 vs Farense U23 | 22:00 28/01
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://cktv.pro/
@@ -33,10 +29,6 @@ https://cktv.pro/match/er7fc918wy
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://cktv.pro/
 https://cktv.pro/match/f5mvyqqaku
-#EXTINF:-1 tvg-id="geeq0hof4k" tvg-logo="https://yquw1225.edgemaxcdn.org/thumb/20260128/bg_geeq0hof4k_1769528290811.jpg" group-title="🔥 Tâm Điểm", ⚽ Al-Wasl SC vs Khor Fakkan SSC | 23:00 28/01
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://cktv.pro/
-https://cktv.pro/match/geeq0hof4k
 #EXTINF:-1 tvg-id="skrm9da54u" tvg-logo="https://yquw1225.edgemaxcdn.org/thumb/20260128/bg_skrm9da54u_1769533156359.jpg" group-title="🔥 Tâm Điểm", ⚽ Al Wehda Mecca vs AL-Rbeea Jeddah | 22:45 28/01
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://cktv.pro/
@@ -49,6 +41,14 @@ https://cktv.pro/match/2mpyeg1o3k
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://cktv.pro/
 https://cktv.pro/match/3osfp3ut99
+#EXTINF:-1 tvg-id="dv15jgm9oi" tvg-logo="https://yquw1225.edgemaxcdn.org/thumb/20260128/bg_dv15jgm9oi_1769533086856.jpg" group-title="🔥 Tâm Điểm", ⚽ Duhok vs Al Zawraa | 21:30 28/01
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://cktv.pro/
+https://cktv.pro/match/dv15jgm9oi
+#EXTINF:-1 tvg-id="6hqzun61xp" tvg-logo="https://yquw1225.edgemaxcdn.org/thumb/20260128/bg_6hqzun61xp_1769533086856.jpg" group-title="🔥 Tâm Điểm", ⚽ AI Kahrabaa vs Al Quwa Al Jawiya | 21:30 28/01
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://cktv.pro/
+https://cktv.pro/match/6hqzun61xp
 #EXTINF:-1 tvg-id="6v3nbqc4sy" tvg-logo="https://yquw1225.edgemaxcdn.org/thumb/20260128/bg_6v3nbqc4sy_1769612403862.jpg" group-title="⚽ Bóng đá", ⚽ Al Najma(KSA) vs Al-Riyadh | 22:20 28/01
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://cktv.pro/
@@ -61,18 +61,14 @@ https://cktv.pro/match/scatfhvihn
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://cktv.pro/
 https://cktv.pro/match/mun9c71gn4
-#EXTINF:-1 tvg-id="6esnghodiy" tvg-logo="https://yquw1225.edgemaxcdn.org/thumb/20260128/bg_6esnghodiy_1769533086856.jpg" group-title="⚽ Bóng đá", ⚽ Ispartaspor vs Menemen Belediye Spor | 21:00 28/01
+#EXTINF:-1 tvg-id="geeq0hof4k" tvg-logo="https://yquw1225.edgemaxcdn.org/thumb/20260128/bg_geeq0hof4k_1769528290811.jpg" group-title="⚽ Bóng đá", ⚽ Al-Wasl SC vs Khor Fakkan SSC | 23:00 28/01
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://cktv.pro/
-https://cktv.pro/match/6esnghodiy
-#EXTINF:-1 tvg-id="dv15jgm9oi" tvg-logo="https://yquw1225.edgemaxcdn.org/thumb/20260128/bg_dv15jgm9oi_1769533086856.jpg" group-title="⚽ Bóng đá", ⚽ Duhok vs Al Zawraa | 21:30 28/01
+https://cktv.pro/match/geeq0hof4k
+#EXTINF:-1 tvg-id="zad02po0gh" tvg-logo="https://yquw1225.edgemaxcdn.org/thumb/20260128/bg_zad02po0gh_1769528290811.jpg" group-title="⚽ Bóng đá", ⚽ Al-Arabi Club (KUW) vs Al-Qadsia SC | 23:30 28/01
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://cktv.pro/
-https://cktv.pro/match/dv15jgm9oi
-#EXTINF:-1 tvg-id="6hqzun61xp" tvg-logo="https://yquw1225.edgemaxcdn.org/thumb/20260128/bg_6hqzun61xp_1769533086856.jpg" group-title="⚽ Bóng đá", ⚽ AI Kahrabaa vs Al Quwa Al Jawiya | 21:30 28/01
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://cktv.pro/
-https://cktv.pro/match/6hqzun61xp
+https://cktv.pro/match/zad02po0gh
 #EXTINF:-1 tvg-id="er7fc918wy" tvg-logo="https://yquw1225.edgemaxcdn.org/thumb/20260128/bg_er7fc918wy_1769533156359.jpg" group-title="⚽ Bóng đá", ⚽ Estrela FC U23 vs Farense U23 | 22:00 28/01
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://cktv.pro/
@@ -81,10 +77,18 @@ https://cktv.pro/match/er7fc918wy
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://cktv.pro/
 https://cktv.pro/match/f5mvyqqaku
-#EXTINF:-1 tvg-id="geeq0hof4k" tvg-logo="https://yquw1225.edgemaxcdn.org/thumb/20260128/bg_geeq0hof4k_1769528290811.jpg" group-title="⚽ Bóng đá", ⚽ Al-Wasl SC vs Khor Fakkan SSC | 23:00 28/01
+#EXTINF:-1 tvg-id="skrm9da54u" tvg-logo="https://yquw1225.edgemaxcdn.org/thumb/20260128/bg_skrm9da54u_1769533156359.jpg" group-title="⚽ Bóng đá", ⚽ Al Wehda Mecca vs AL-Rbeea Jeddah | 22:45 28/01
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://cktv.pro/
-https://cktv.pro/match/geeq0hof4k
+https://cktv.pro/match/skrm9da54u
+#EXTINF:-1 tvg-id="2mpyeg1o3k" tvg-logo="https://yquw1225.edgemaxcdn.org/thumb/20260128/bg_2mpyeg1o3k_1769533156359.jpg" group-title="⚽ Bóng đá", ⚽ Sitra vs Al-Riffa | 23:00 28/01
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://cktv.pro/
+https://cktv.pro/match/2mpyeg1o3k
+#EXTINF:-1 tvg-id="3osfp3ut99" tvg-logo="https://yquw1225.edgemaxcdn.org/thumb/20260128/bg_3osfp3ut99_1769528290811.jpg" group-title="⚽ Bóng đá", ⚽ A'Ali FC vs Najma Manama | 23:00 28/01
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://cktv.pro/
+https://cktv.pro/match/3osfp3ut99
 #EXTINF:-1 tvg-id="n0j9h75o4w" tvg-logo="https://yquw1225.edgemaxcdn.org/thumb/20260129/bg_n0j9h75o4w_1769539441078.jpg" group-title="⚽ Bóng đá", ⚽ Arsenal vs FC Kairat Almaty | 03:00 29/01
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://cktv.pro/
@@ -109,26 +113,14 @@ https://cktv.pro/match/886xz63tjw
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://cktv.pro/
 https://cktv.pro/match/ro0nipcvsr
-#EXTINF:-1 tvg-id="skrm9da54u" tvg-logo="https://yquw1225.edgemaxcdn.org/thumb/20260128/bg_skrm9da54u_1769533156359.jpg" group-title="⚽ Bóng đá", ⚽ Al Wehda Mecca vs AL-Rbeea Jeddah | 22:45 28/01
+#EXTINF:-1 tvg-id="dv15jgm9oi" tvg-logo="https://yquw1225.edgemaxcdn.org/thumb/20260128/bg_dv15jgm9oi_1769533086856.jpg" group-title="⚽ Bóng đá", ⚽ Duhok vs Al Zawraa | 21:30 28/01
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://cktv.pro/
-https://cktv.pro/match/skrm9da54u
-#EXTINF:-1 tvg-id="2mpyeg1o3k" tvg-logo="https://yquw1225.edgemaxcdn.org/thumb/20260128/bg_2mpyeg1o3k_1769533156359.jpg" group-title="⚽ Bóng đá", ⚽ Sitra vs Al-Riffa | 23:00 28/01
+https://cktv.pro/match/dv15jgm9oi
+#EXTINF:-1 tvg-id="6hqzun61xp" tvg-logo="https://yquw1225.edgemaxcdn.org/thumb/20260128/bg_6hqzun61xp_1769533086856.jpg" group-title="⚽ Bóng đá", ⚽ AI Kahrabaa vs Al Quwa Al Jawiya | 21:30 28/01
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://cktv.pro/
-https://cktv.pro/match/2mpyeg1o3k
-#EXTINF:-1 tvg-id="3osfp3ut99" tvg-logo="https://yquw1225.edgemaxcdn.org/thumb/20260128/bg_3osfp3ut99_1769528290811.jpg" group-title="⚽ Bóng đá", ⚽ A'Ali FC vs Najma Manama | 23:00 28/01
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://cktv.pro/
-https://cktv.pro/match/3osfp3ut99
-#EXTINF:-1 tvg-id="geeq0hof4k" tvg-logo="https://yquw1225.edgemaxcdn.org/thumb/20260128/bg_geeq0hof4k_1769528290811.jpg" group-title="⚽ Bóng đá", ⚽ Al-Wasl SC vs Khor Fakkan SSC | 23:00 28/01
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://cktv.pro/
-https://cktv.pro/match/geeq0hof4k
-#EXTINF:-1 tvg-id="zad02po0gh" tvg-logo="https://yquw1225.edgemaxcdn.org/thumb/20260128/bg_zad02po0gh_1769528290811.jpg" group-title="⚽ Bóng đá", ⚽ Al-Arabi Club (KUW) vs Al-Qadsia SC | 23:30 28/01
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://cktv.pro/
-https://cktv.pro/match/zad02po0gh
+https://cktv.pro/match/6hqzun61xp
 #EXTINF:-1 tvg-id="8ff2ofohnt" tvg-logo="https://yquw1225.edgemaxcdn.org/thumb/20260129/bg_8ff2ofohnt_1769528290811.jpg" group-title="⚽ Bóng đá", ⚽ Al-Fayha vs Al Khaleej Club | 00:30 29/01
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://cktv.pro/
@@ -289,94 +281,94 @@ https://cktv.pro/match/h8ujp5jity
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://cktv.pro/
 https://cktv.pro/match/qfod5fvxzw
-#EXTINF:-1 tvg-id="65gx5d3f3j" tvg-logo="https://cktv.pro/bg-ck.png" group-title="⚽ Bóng đá", ⚽ Lebanon Futsal vs Việt Nam Futsal | 13:00 29/01
+#EXTINF:-1 tvg-id="65gx5d3f3j" tvg-logo="https://yquw1225.edgemaxcdn.org/thumb/20260129/bg_65gx5d3f3j_1769614861427.jpg" group-title="⚽ Bóng đá", ⚽ Lebanon Futsal vs Việt Nam Futsal | 13:00 29/01
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://cktv.pro/
 https://cktv.pro/match/65gx5d3f3j
-#EXTINF:-1 tvg-id="0gomifm5xr" tvg-logo="https://cktv.pro/bg-ck.png" group-title="⚽ Bóng đá", ⚽ Hàn Quốc Futsal vs Iraq Futsal | 13:00 29/01
+#EXTINF:-1 tvg-id="0gomifm5xr" tvg-logo="https://yquw1225.edgemaxcdn.org/thumb/20260129/bg_0gomifm5xr_1769614861427.jpg" group-title="⚽ Bóng đá", ⚽ Hàn Quốc Futsal vs Iraq Futsal | 13:00 29/01
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://cktv.pro/
 https://cktv.pro/match/0gomifm5xr
-#EXTINF:-1 tvg-id="9d97mpbpfy" tvg-logo="https://cktv.pro/bg-ck.png" group-title="⚽ Bóng đá", ⚽ Yangon City vs Myawady | 15:30 29/01
+#EXTINF:-1 tvg-id="9d97mpbpfy" tvg-logo="https://yquw1225.edgemaxcdn.org/thumb/20260129/bg_9d97mpbpfy_1769614861427.jpg" group-title="⚽ Bóng đá", ⚽ Yangon City vs Myawady | 15:30 29/01
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://cktv.pro/
 https://cktv.pro/match/9d97mpbpfy
-#EXTINF:-1 tvg-id="l94go4qtjw" tvg-logo="https://cktv.pro/bg-ck.png" group-title="⚽ Bóng đá", ⚽ Ayeyawady united vs Dagon Star FC | 16:00 29/01
+#EXTINF:-1 tvg-id="l94go4qtjw" tvg-logo="https://yquw1225.edgemaxcdn.org/thumb/20260129/bg_l94go4qtjw_1769614861427.jpg" group-title="⚽ Bóng đá", ⚽ Ayeyawady united vs Dagon Star FC | 16:00 29/01
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://cktv.pro/
 https://cktv.pro/match/l94go4qtjw
-#EXTINF:-1 tvg-id="eabtnh8wwh" tvg-logo="https://cktv.pro/bg-ck.png" group-title="⚽ Bóng đá", ⚽ Johor Darul Takzim vs Shan United | 16:30 29/01
+#EXTINF:-1 tvg-id="eabtnh8wwh" tvg-logo="https://yquw1225.edgemaxcdn.org/thumb/20260129/bg_eabtnh8wwh_1769614861427.jpg" group-title="⚽ Bóng đá", ⚽ Johor Darul Takzim vs Shan United | 16:30 29/01
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://cktv.pro/
 https://cktv.pro/match/eabtnh8wwh
-#EXTINF:-1 tvg-id="rrzt1vijvm" tvg-logo="https://cktv.pro/bg-ck.png" group-title="⚽ Bóng đá", ⚽ Myanmar Universitet vs Chinland FC | 16:30 29/01
+#EXTINF:-1 tvg-id="rrzt1vijvm" tvg-logo="https://yquw1225.edgemaxcdn.org/thumb/20260129/bg_rrzt1vijvm_1769614861427.jpg" group-title="⚽ Bóng đá", ⚽ Myanmar Universitet vs Chinland FC | 16:30 29/01
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://cktv.pro/
 https://cktv.pro/match/rrzt1vijvm
-#EXTINF:-1 tvg-id="132fhpoqec" tvg-logo="https://cktv.pro/bg-ck.png" group-title="⚽ Bóng đá", ⚽ Kuwait Futsal vs Thailand Futsal | 17:00 29/01
+#EXTINF:-1 tvg-id="132fhpoqec" tvg-logo="https://yquw1225.edgemaxcdn.org/thumb/20260129/bg_132fhpoqec_1769614861427.jpg" group-title="⚽ Bóng đá", ⚽ Kuwait Futsal vs Thailand Futsal | 17:00 29/01
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://cktv.pro/
 https://cktv.pro/match/132fhpoqec
-#EXTINF:-1 tvg-id="ayv0ypvigw" tvg-logo="https://cktv.pro/bg-ck.png" group-title="⚽ Bóng đá", ⚽ Svay Rieng FC vs Bangkok United FC | 19:00 29/01
+#EXTINF:-1 tvg-id="ayv0ypvigw" tvg-logo="https://yquw1225.edgemaxcdn.org/thumb/20260129/bg_ayv0ypvigw_1769614861427.jpg" group-title="⚽ Bóng đá", ⚽ Svay Rieng FC vs Bangkok United FC | 19:00 29/01
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://cktv.pro/
 https://cktv.pro/match/ayv0ypvigw
-#EXTINF:-1 tvg-id="czoqkvd12r" tvg-logo="https://cktv.pro/bg-ck.png" group-title="⚽ Bóng đá", ⚽ Kyrgyzstan Futsal vs Indonesia Futsal | 19:00 29/01
+#EXTINF:-1 tvg-id="czoqkvd12r" tvg-logo="https://yquw1225.edgemaxcdn.org/thumb/20260129/bg_czoqkvd12r_1769614861427.jpg" group-title="⚽ Bóng đá", ⚽ Kyrgyzstan Futsal vs Indonesia Futsal | 19:00 29/01
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://cktv.pro/
 https://cktv.pro/match/czoqkvd12r
-#EXTINF:-1 tvg-id="sq38e9b1i5" tvg-logo="https://cktv.pro/bg-ck.png" group-title="⚽ Bóng đá", ⚽ Malavan vs Chadormalou Ardakan | 19:00 29/01
+#EXTINF:-1 tvg-id="sq38e9b1i5" tvg-logo="https://yquw1225.edgemaxcdn.org/thumb/20260129/bg_sq38e9b1i5_1769614861427.jpg" group-title="⚽ Bóng đá", ⚽ Malavan vs Chadormalou Ardakan | 19:00 29/01
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://cktv.pro/
 https://cktv.pro/match/sq38e9b1i5
-#EXTINF:-1 tvg-id="piav62lpmz" tvg-logo="https://cktv.pro/bg-ck.png" group-title="⚽ Bóng đá", ⚽ Nam Dinh FC vs Lion City Sailors | 19:30 29/01
+#EXTINF:-1 tvg-id="piav62lpmz" tvg-logo="https://yquw1225.edgemaxcdn.org/thumb/20260129/bg_piav62lpmz_1769614929745.jpg" group-title="⚽ Bóng đá", ⚽ Nam Dinh FC vs Lion City Sailors | 19:30 29/01
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://cktv.pro/
 https://cktv.pro/match/piav62lpmz
-#EXTINF:-1 tvg-id="yw3335epbj" tvg-logo="https://cktv.pro/bg-ck.png" group-title="⚽ Bóng đá", ⚽ Shabab Al Ordon vs Al Wehdat | 20:00 29/01
+#EXTINF:-1 tvg-id="yw3335epbj" tvg-logo="https://yquw1225.edgemaxcdn.org/thumb/20260129/bg_yw3335epbj_1769614929745.jpg" group-title="⚽ Bóng đá", ⚽ Shabab Al Ordon vs Al Wehdat | 20:00 29/01
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://cktv.pro/
 https://cktv.pro/match/yw3335epbj
-#EXTINF:-1 tvg-id="w2q4c9m9ke" tvg-logo="https://cktv.pro/bg-ck.png" group-title="⚽ Bóng đá", ⚽ Al Bataeh vs Al-Jazira(UAE) | 20:15 29/01
+#EXTINF:-1 tvg-id="w2q4c9m9ke" tvg-logo="https://yquw1225.edgemaxcdn.org/thumb/20260129/bg_w2q4c9m9ke_1769614929745.jpg" group-title="⚽ Bóng đá", ⚽ Al Bataeh vs Al-Jazira(UAE) | 20:15 29/01
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://cktv.pro/
 https://cktv.pro/match/w2q4c9m9ke
-#EXTINF:-1 tvg-id="qite8fxd9a" tvg-logo="https://cktv.pro/bg-ck.png" group-title="⚽ Bóng đá", ⚽ Al-Nahda Muscat vs Al-Seeb | 20:20 29/01
+#EXTINF:-1 tvg-id="qite8fxd9a" tvg-logo="https://yquw1225.edgemaxcdn.org/thumb/20260129/bg_qite8fxd9a_1769614929745.jpg" group-title="⚽ Bóng đá", ⚽ Al-Nahda Muscat vs Al-Seeb | 20:20 29/01
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://cktv.pro/
 https://cktv.pro/match/qite8fxd9a
-#EXTINF:-1 tvg-id="lvyc1nhw91" tvg-logo="https://cktv.pro/bg-ck.png" group-title="⚽ Bóng đá", ⚽ Estoril U23 vs Vizela U23 | 20:30 29/01
+#EXTINF:-1 tvg-id="lvyc1nhw91" tvg-logo="https://yquw1225.edgemaxcdn.org/thumb/20260129/bg_lvyc1nhw91_1769614929745.jpg" group-title="⚽ Bóng đá", ⚽ Estoril U23 vs Vizela U23 | 20:30 29/01
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://cktv.pro/
 https://cktv.pro/match/lvyc1nhw91
-#EXTINF:-1 tvg-id="6in4lv4xhm" tvg-logo="https://cktv.pro/bg-ck.png" group-title="⚽ Bóng đá", ⚽ Umm Salal vs Al-Arabi SC | 21:30 29/01
+#EXTINF:-1 tvg-id="6in4lv4xhm" tvg-logo="https://yquw1225.edgemaxcdn.org/thumb/20260129/bg_6in4lv4xhm_1769614929745.jpg" group-title="⚽ Bóng đá", ⚽ Umm Salal vs Al-Arabi SC | 21:45 29/01
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://cktv.pro/
 https://cktv.pro/match/6in4lv4xhm
-#EXTINF:-1 tvg-id="gwa4yx4re5" tvg-logo="https://cktv.pro/bg-ck.png" group-title="⚽ Bóng đá", ⚽ Enppi vs Smouha SC | 22:00 29/01
+#EXTINF:-1 tvg-id="gwa4yx4re5" tvg-logo="https://yquw1225.edgemaxcdn.org/thumb/20260129/bg_gwa4yx4re5_1769614929745.jpg" group-title="⚽ Bóng đá", ⚽ Enppi vs Smouha SC | 22:00 29/01
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://cktv.pro/
 https://cktv.pro/match/gwa4yx4re5
-#EXTINF:-1 tvg-id="zoxglpc5il" tvg-logo="https://cktv.pro/bg-ck.png" group-title="⚽ Bóng đá", ⚽ Al-Fateh SC vs Al-Ittihad Club | 22:00 29/01
+#EXTINF:-1 tvg-id="zoxglpc5il" tvg-logo="https://yquw1225.edgemaxcdn.org/thumb/20260129/bg_zoxglpc5il_1769614929745.jpg" group-title="⚽ Bóng đá", ⚽ Al-Fateh SC vs Al-Ittihad Club | 22:00 29/01
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://cktv.pro/
 https://cktv.pro/match/zoxglpc5il
-#EXTINF:-1 tvg-id="8d4eosc3qd" tvg-logo="https://cktv.pro/bg-ck.png" group-title="⚽ Bóng đá", ⚽ Al Faisaly vs Ramtha Club | 22:30 29/01
+#EXTINF:-1 tvg-id="8d4eosc3qd" tvg-logo="https://yquw1225.edgemaxcdn.org/thumb/20260129/bg_8d4eosc3qd_1769614929745.jpg" group-title="⚽ Bóng đá", ⚽ Al Faisaly vs Ramtha Club | 22:30 29/01
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://cktv.pro/
 https://cktv.pro/match/8d4eosc3qd
-#EXTINF:-1 tvg-id="nas3fhjjzi" tvg-logo="https://cktv.pro/bg-ck.png" group-title="⚽ Bóng đá", ⚽ Al Nasr Dubai vs Baniyas Club | 23:00 29/01
+#EXTINF:-1 tvg-id="nas3fhjjzi" tvg-logo="https://yquw1225.edgemaxcdn.org/thumb/20260129/bg_nas3fhjjzi_1769614929745.jpg" group-title="⚽ Bóng đá", ⚽ Al Nasr Dubai vs Baniyas Club | 23:00 29/01
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://cktv.pro/
 https://cktv.pro/match/nas3fhjjzi
-#EXTINF:-1 tvg-id="fz1x2uhk96" tvg-logo="https://cktv.pro/bg-ck.png" group-title="⚽ Bóng đá", ⚽ Al-Wakra vs Al Shahaniya | 23:30 29/01
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://cktv.pro/
-https://cktv.pro/match/fz1x2uhk96
-#EXTINF:-1 tvg-id="knzhluy3c0" tvg-logo="https://cktv.pro/bg-ck.png" group-title="⚽ Bóng đá", ⚽ Al-Nasr(OMA) vs Oman Club | 23:30 29/01
+#EXTINF:-1 tvg-id="knzhluy3c0" tvg-logo="https://yquw1225.edgemaxcdn.org/thumb/20260129/bg_knzhluy3c0_1769614997427.jpg" group-title="⚽ Bóng đá", ⚽ Al-Nasr(OMA) vs Oman Club | 23:30 29/01
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://cktv.pro/
 https://cktv.pro/match/knzhluy3c0
+#EXTINF:-1 tvg-id="fz1x2uhk96" tvg-logo="https://yquw1225.edgemaxcdn.org/thumb/20260129/bg_fz1x2uhk96_1769614997427.jpg" group-title="⚽ Bóng đá", ⚽ Al-Wakra vs Al Shahaniya | 23:45 29/01
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://cktv.pro/
+https://cktv.pro/match/fz1x2uhk96
 #EXTINF:-1 tvg-id="5exticjgwj" tvg-logo="https://yquw1225.edgemaxcdn.org/thumb/20260130/bg_5exticjgwj_1769593680795.jpg" group-title="⚽ Bóng đá", ⚽ Fiorentina (w) vs AC Milan (w) | 00:00 30/01
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://cktv.pro/
@@ -789,26 +781,26 @@ https://cktv.pro/match/7jjbwdyh5h
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://cktv.pro/
 https://cktv.pro/match/xc1z2uql2o
-#EXTINF:-1 tvg-id="ophim" tvg-logo="https://op.hdpe.pro/images/logo.png" group-title="⚡ Nội dung hấp dẫn - Giải trí không giới hạn! ⚡", Ophim
-https://op.hdpe.pro
-#EXTINF:-1 tvg-id="vebotv" tvg-logo="https://vebo.thethaoiptv.com/vebo-icon.png" group-title="⚡ Nội dung hấp dẫn - Giải trí không giới hạn! ⚡", VeboTV
-https://vbtv.pro
-#EXTINF:-1 tvg-id="otruyen" tvg-logo="https://otruyen-iptv.khotruyen.link/logo.png" group-title="⚡ Nội dung hấp dẫn - Giải trí không giới hạn! ⚡", Ổ Truyện
-https://otruyen-iptv.khotruyen.link
-#EXTINF:-1 tvg-id="nguonc" tvg-logo="https://nc.hdpe.pro/images/logo.png" group-title="⚡ Nội dung hấp dẫn - Giải trí không giới hạn! ⚡", NguonC
-https://nc.hdpe.pro
-#EXTINF:-1 tvg-id="hangtruyen" tvg-logo="https://ht.khotruyen.link/images/hangtruyen.png" group-title="⚡ Nội dung hấp dẫn - Giải trí không giới hạn! ⚡", Hang Truyện
-https://ht.khotruyen.link
-#EXTINF:-1 tvg-id="truyenhinh" tvg-logo="https://iptv.nhadai.org/logo.png" group-title="⚡ Nội dung hấp dẫn - Giải trí không giới hạn! ⚡", FPT
-https://iptv.nhadai.org/v1
-#EXTINF:-1 tvg-id="kkphim" tvg-logo="https://kk.hdpe.pro/images/logo.png" group-title="⚡ Nội dung hấp dẫn - Giải trí không giới hạn! ⚡", Kkphim
-https://kk.hdpe.pro
-#EXTINF:-1 tvg-id="thapcamtv" tvg-logo="https://thapcamiptv.com/10cam-logo-app-light.jpg" group-title="⚡ Nội dung hấp dẫn - Giải trí không giới hạn! ⚡", ThapcamTV
-https://tctv.pro
-#EXTINF:-1 tvg-id="vtvgo" tvg-logo="https://web-cache-aws.vtvdigital.vn/assets/images/logo-app.png" group-title="⚡ Nội dung hấp dẫn - Giải trí không giới hạn! ⚡", VTVGO
-https://vtvgo.4share.me/v1
 #EXTINF:-1 tvg-id="newtruyenhot" tvg-logo="https://newtruyenhot.4share.me/static/img/logo-newtruyenhot.png" group-title="⚡ Nội dung hấp dẫn - Giải trí không giới hạn! ⚡", NewTruyenHot
 https://newtruyenhot.4share.me
+#EXTINF:-1 tvg-id="ophim" tvg-logo="https://op.hdpe.pro/images/logo.png" group-title="⚡ Nội dung hấp dẫn - Giải trí không giới hạn! ⚡", Ophim
+https://op.hdpe.pro
+#EXTINF:-1 tvg-id="kkphim" tvg-logo="https://kk.hdpe.pro/images/logo.png" group-title="⚡ Nội dung hấp dẫn - Giải trí không giới hạn! ⚡", Kkphim
+https://kk.hdpe.pro
+#EXTINF:-1 tvg-id="vtvgo" tvg-logo="https://web-cache-aws.vtvdigital.vn/assets/images/logo-app.png" group-title="⚡ Nội dung hấp dẫn - Giải trí không giới hạn! ⚡", VTVGO
+https://vtvgo.4share.me/v1
+#EXTINF:-1 tvg-id="vebotv" tvg-logo="https://vebo.thethaoiptv.com/vebo-icon.png" group-title="⚡ Nội dung hấp dẫn - Giải trí không giới hạn! ⚡", VeboTV
+https://vbtv.pro
+#EXTINF:-1 tvg-id="nguonc" tvg-logo="https://nc.hdpe.pro/images/logo.png" group-title="⚡ Nội dung hấp dẫn - Giải trí không giới hạn! ⚡", NguonC
+https://nc.hdpe.pro
+#EXTINF:-1 tvg-id="truyenhinh" tvg-logo="https://iptv.nhadai.org/logo.png" group-title="⚡ Nội dung hấp dẫn - Giải trí không giới hạn! ⚡", FPT
+https://iptv.nhadai.org/v1
+#EXTINF:-1 tvg-id="hangtruyen" tvg-logo="https://ht.khotruyen.link/images/hangtruyen.png" group-title="⚡ Nội dung hấp dẫn - Giải trí không giới hạn! ⚡", Hang Truyện
+https://ht.khotruyen.link
+#EXTINF:-1 tvg-id="thapcamtv" tvg-logo="https://thapcamiptv.com/10cam-logo-app-light.jpg" group-title="⚡ Nội dung hấp dẫn - Giải trí không giới hạn! ⚡", ThapcamTV
+https://tctv.pro
+#EXTINF:-1 tvg-id="otruyen" tvg-logo="https://otruyen-iptv.khotruyen.link/logo.png" group-title="⚡ Nội dung hấp dẫn - Giải trí không giới hạn! ⚡", Ổ Truyện
+https://otruyen-iptv.khotruyen.link
 #EXTINF:-1 tvg-id="6v3nbqc4sy" tvg-logo="https://yquw1225.edgemaxcdn.org/thumb/20260128/bg_6v3nbqc4sy_1769612403862.jpg" group-title="📅 Lịch Thi Đấu: 28/01/2026", ⚽ Al Najma(KSA) vs Al-Riyadh | 22:20 28/01
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://cktv.pro/
@@ -821,18 +813,14 @@ https://cktv.pro/match/scatfhvihn
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://cktv.pro/
 https://cktv.pro/match/mun9c71gn4
-#EXTINF:-1 tvg-id="6esnghodiy" tvg-logo="https://yquw1225.edgemaxcdn.org/thumb/20260128/bg_6esnghodiy_1769533086856.jpg" group-title="📅 Lịch Thi Đấu: 28/01/2026", ⚽ Ispartaspor vs Menemen Belediye Spor | 21:00 28/01
+#EXTINF:-1 tvg-id="geeq0hof4k" tvg-logo="https://yquw1225.edgemaxcdn.org/thumb/20260128/bg_geeq0hof4k_1769528290811.jpg" group-title="📅 Lịch Thi Đấu: 28/01/2026", ⚽ Al-Wasl SC vs Khor Fakkan SSC | 23:00 28/01
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://cktv.pro/
-https://cktv.pro/match/6esnghodiy
-#EXTINF:-1 tvg-id="dv15jgm9oi" tvg-logo="https://yquw1225.edgemaxcdn.org/thumb/20260128/bg_dv15jgm9oi_1769533086856.jpg" group-title="📅 Lịch Thi Đấu: 28/01/2026", ⚽ Duhok vs Al Zawraa | 21:30 28/01
+https://cktv.pro/match/geeq0hof4k
+#EXTINF:-1 tvg-id="zad02po0gh" tvg-logo="https://yquw1225.edgemaxcdn.org/thumb/20260128/bg_zad02po0gh_1769528290811.jpg" group-title="📅 Lịch Thi Đấu: 28/01/2026", ⚽ Al-Arabi Club (KUW) vs Al-Qadsia SC | 23:30 28/01
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://cktv.pro/
-https://cktv.pro/match/dv15jgm9oi
-#EXTINF:-1 tvg-id="6hqzun61xp" tvg-logo="https://yquw1225.edgemaxcdn.org/thumb/20260128/bg_6hqzun61xp_1769533086856.jpg" group-title="📅 Lịch Thi Đấu: 28/01/2026", ⚽ AI Kahrabaa vs Al Quwa Al Jawiya | 21:30 28/01
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://cktv.pro/
-https://cktv.pro/match/6hqzun61xp
+https://cktv.pro/match/zad02po0gh
 #EXTINF:-1 tvg-id="er7fc918wy" tvg-logo="https://yquw1225.edgemaxcdn.org/thumb/20260128/bg_er7fc918wy_1769533156359.jpg" group-title="📅 Lịch Thi Đấu: 28/01/2026", ⚽ Estrela FC U23 vs Farense U23 | 22:00 28/01
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://cktv.pro/
@@ -841,10 +829,6 @@ https://cktv.pro/match/er7fc918wy
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://cktv.pro/
 https://cktv.pro/match/f5mvyqqaku
-#EXTINF:-1 tvg-id="geeq0hof4k" tvg-logo="https://yquw1225.edgemaxcdn.org/thumb/20260128/bg_geeq0hof4k_1769528290811.jpg" group-title="📅 Lịch Thi Đấu: 28/01/2026", ⚽ Al-Wasl SC vs Khor Fakkan SSC | 23:00 28/01
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://cktv.pro/
-https://cktv.pro/match/geeq0hof4k
 #EXTINF:-1 tvg-id="skrm9da54u" tvg-logo="https://yquw1225.edgemaxcdn.org/thumb/20260128/bg_skrm9da54u_1769533156359.jpg" group-title="📅 Lịch Thi Đấu: 28/01/2026", ⚽ Al Wehda Mecca vs AL-Rbeea Jeddah | 22:45 28/01
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://cktv.pro/
@@ -857,14 +841,14 @@ https://cktv.pro/match/2mpyeg1o3k
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://cktv.pro/
 https://cktv.pro/match/3osfp3ut99
-#EXTINF:-1 tvg-id="geeq0hof4k" tvg-logo="https://yquw1225.edgemaxcdn.org/thumb/20260128/bg_geeq0hof4k_1769528290811.jpg" group-title="📅 Lịch Thi Đấu: 28/01/2026", ⚽ Al-Wasl SC vs Khor Fakkan SSC | 23:00 28/01
+#EXTINF:-1 tvg-id="dv15jgm9oi" tvg-logo="https://yquw1225.edgemaxcdn.org/thumb/20260128/bg_dv15jgm9oi_1769533086856.jpg" group-title="📅 Lịch Thi Đấu: 28/01/2026", ⚽ Duhok vs Al Zawraa | 21:30 28/01
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://cktv.pro/
-https://cktv.pro/match/geeq0hof4k
-#EXTINF:-1 tvg-id="zad02po0gh" tvg-logo="https://yquw1225.edgemaxcdn.org/thumb/20260128/bg_zad02po0gh_1769528290811.jpg" group-title="📅 Lịch Thi Đấu: 28/01/2026", ⚽ Al-Arabi Club (KUW) vs Al-Qadsia SC | 23:30 28/01
+https://cktv.pro/match/dv15jgm9oi
+#EXTINF:-1 tvg-id="6hqzun61xp" tvg-logo="https://yquw1225.edgemaxcdn.org/thumb/20260128/bg_6hqzun61xp_1769533086856.jpg" group-title="📅 Lịch Thi Đấu: 28/01/2026", ⚽ AI Kahrabaa vs Al Quwa Al Jawiya | 21:30 28/01
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://cktv.pro/
-https://cktv.pro/match/zad02po0gh
+https://cktv.pro/match/6hqzun61xp
 #EXTINF:-1 tvg-id="n0j9h75o4w" tvg-logo="https://yquw1225.edgemaxcdn.org/thumb/20260129/bg_n0j9h75o4w_1769539441078.jpg" group-title="📅 Lịch Thi Đấu: 29/01/2026", ⚽ Arsenal vs FC Kairat Almaty | 03:00 29/01
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://cktv.pro/
@@ -1049,94 +1033,94 @@ https://cktv.pro/match/h8ujp5jity
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://cktv.pro/
 https://cktv.pro/match/qfod5fvxzw
-#EXTINF:-1 tvg-id="65gx5d3f3j" tvg-logo="https://cktv.pro/bg-ck.png" group-title="📅 Lịch Thi Đấu: 29/01/2026", ⚽ Lebanon Futsal vs Việt Nam Futsal | 13:00 29/01
+#EXTINF:-1 tvg-id="65gx5d3f3j" tvg-logo="https://yquw1225.edgemaxcdn.org/thumb/20260129/bg_65gx5d3f3j_1769614861427.jpg" group-title="📅 Lịch Thi Đấu: 29/01/2026", ⚽ Lebanon Futsal vs Việt Nam Futsal | 13:00 29/01
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://cktv.pro/
 https://cktv.pro/match/65gx5d3f3j
-#EXTINF:-1 tvg-id="0gomifm5xr" tvg-logo="https://cktv.pro/bg-ck.png" group-title="📅 Lịch Thi Đấu: 29/01/2026", ⚽ Hàn Quốc Futsal vs Iraq Futsal | 13:00 29/01
+#EXTINF:-1 tvg-id="0gomifm5xr" tvg-logo="https://yquw1225.edgemaxcdn.org/thumb/20260129/bg_0gomifm5xr_1769614861427.jpg" group-title="📅 Lịch Thi Đấu: 29/01/2026", ⚽ Hàn Quốc Futsal vs Iraq Futsal | 13:00 29/01
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://cktv.pro/
 https://cktv.pro/match/0gomifm5xr
-#EXTINF:-1 tvg-id="9d97mpbpfy" tvg-logo="https://cktv.pro/bg-ck.png" group-title="📅 Lịch Thi Đấu: 29/01/2026", ⚽ Yangon City vs Myawady | 15:30 29/01
+#EXTINF:-1 tvg-id="9d97mpbpfy" tvg-logo="https://yquw1225.edgemaxcdn.org/thumb/20260129/bg_9d97mpbpfy_1769614861427.jpg" group-title="📅 Lịch Thi Đấu: 29/01/2026", ⚽ Yangon City vs Myawady | 15:30 29/01
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://cktv.pro/
 https://cktv.pro/match/9d97mpbpfy
-#EXTINF:-1 tvg-id="l94go4qtjw" tvg-logo="https://cktv.pro/bg-ck.png" group-title="📅 Lịch Thi Đấu: 29/01/2026", ⚽ Ayeyawady united vs Dagon Star FC | 16:00 29/01
+#EXTINF:-1 tvg-id="l94go4qtjw" tvg-logo="https://yquw1225.edgemaxcdn.org/thumb/20260129/bg_l94go4qtjw_1769614861427.jpg" group-title="📅 Lịch Thi Đấu: 29/01/2026", ⚽ Ayeyawady united vs Dagon Star FC | 16:00 29/01
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://cktv.pro/
 https://cktv.pro/match/l94go4qtjw
-#EXTINF:-1 tvg-id="eabtnh8wwh" tvg-logo="https://cktv.pro/bg-ck.png" group-title="📅 Lịch Thi Đấu: 29/01/2026", ⚽ Johor Darul Takzim vs Shan United | 16:30 29/01
+#EXTINF:-1 tvg-id="eabtnh8wwh" tvg-logo="https://yquw1225.edgemaxcdn.org/thumb/20260129/bg_eabtnh8wwh_1769614861427.jpg" group-title="📅 Lịch Thi Đấu: 29/01/2026", ⚽ Johor Darul Takzim vs Shan United | 16:30 29/01
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://cktv.pro/
 https://cktv.pro/match/eabtnh8wwh
-#EXTINF:-1 tvg-id="rrzt1vijvm" tvg-logo="https://cktv.pro/bg-ck.png" group-title="📅 Lịch Thi Đấu: 29/01/2026", ⚽ Myanmar Universitet vs Chinland FC | 16:30 29/01
+#EXTINF:-1 tvg-id="rrzt1vijvm" tvg-logo="https://yquw1225.edgemaxcdn.org/thumb/20260129/bg_rrzt1vijvm_1769614861427.jpg" group-title="📅 Lịch Thi Đấu: 29/01/2026", ⚽ Myanmar Universitet vs Chinland FC | 16:30 29/01
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://cktv.pro/
 https://cktv.pro/match/rrzt1vijvm
-#EXTINF:-1 tvg-id="132fhpoqec" tvg-logo="https://cktv.pro/bg-ck.png" group-title="📅 Lịch Thi Đấu: 29/01/2026", ⚽ Kuwait Futsal vs Thailand Futsal | 17:00 29/01
+#EXTINF:-1 tvg-id="132fhpoqec" tvg-logo="https://yquw1225.edgemaxcdn.org/thumb/20260129/bg_132fhpoqec_1769614861427.jpg" group-title="📅 Lịch Thi Đấu: 29/01/2026", ⚽ Kuwait Futsal vs Thailand Futsal | 17:00 29/01
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://cktv.pro/
 https://cktv.pro/match/132fhpoqec
-#EXTINF:-1 tvg-id="ayv0ypvigw" tvg-logo="https://cktv.pro/bg-ck.png" group-title="📅 Lịch Thi Đấu: 29/01/2026", ⚽ Svay Rieng FC vs Bangkok United FC | 19:00 29/01
+#EXTINF:-1 tvg-id="ayv0ypvigw" tvg-logo="https://yquw1225.edgemaxcdn.org/thumb/20260129/bg_ayv0ypvigw_1769614861427.jpg" group-title="📅 Lịch Thi Đấu: 29/01/2026", ⚽ Svay Rieng FC vs Bangkok United FC | 19:00 29/01
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://cktv.pro/
 https://cktv.pro/match/ayv0ypvigw
-#EXTINF:-1 tvg-id="czoqkvd12r" tvg-logo="https://cktv.pro/bg-ck.png" group-title="📅 Lịch Thi Đấu: 29/01/2026", ⚽ Kyrgyzstan Futsal vs Indonesia Futsal | 19:00 29/01
+#EXTINF:-1 tvg-id="czoqkvd12r" tvg-logo="https://yquw1225.edgemaxcdn.org/thumb/20260129/bg_czoqkvd12r_1769614861427.jpg" group-title="📅 Lịch Thi Đấu: 29/01/2026", ⚽ Kyrgyzstan Futsal vs Indonesia Futsal | 19:00 29/01
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://cktv.pro/
 https://cktv.pro/match/czoqkvd12r
-#EXTINF:-1 tvg-id="sq38e9b1i5" tvg-logo="https://cktv.pro/bg-ck.png" group-title="📅 Lịch Thi Đấu: 29/01/2026", ⚽ Malavan vs Chadormalou Ardakan | 19:00 29/01
+#EXTINF:-1 tvg-id="sq38e9b1i5" tvg-logo="https://yquw1225.edgemaxcdn.org/thumb/20260129/bg_sq38e9b1i5_1769614861427.jpg" group-title="📅 Lịch Thi Đấu: 29/01/2026", ⚽ Malavan vs Chadormalou Ardakan | 19:00 29/01
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://cktv.pro/
 https://cktv.pro/match/sq38e9b1i5
-#EXTINF:-1 tvg-id="piav62lpmz" tvg-logo="https://cktv.pro/bg-ck.png" group-title="📅 Lịch Thi Đấu: 29/01/2026", ⚽ Nam Dinh FC vs Lion City Sailors | 19:30 29/01
+#EXTINF:-1 tvg-id="piav62lpmz" tvg-logo="https://yquw1225.edgemaxcdn.org/thumb/20260129/bg_piav62lpmz_1769614929745.jpg" group-title="📅 Lịch Thi Đấu: 29/01/2026", ⚽ Nam Dinh FC vs Lion City Sailors | 19:30 29/01
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://cktv.pro/
 https://cktv.pro/match/piav62lpmz
-#EXTINF:-1 tvg-id="yw3335epbj" tvg-logo="https://cktv.pro/bg-ck.png" group-title="📅 Lịch Thi Đấu: 29/01/2026", ⚽ Shabab Al Ordon vs Al Wehdat | 20:00 29/01
+#EXTINF:-1 tvg-id="yw3335epbj" tvg-logo="https://yquw1225.edgemaxcdn.org/thumb/20260129/bg_yw3335epbj_1769614929745.jpg" group-title="📅 Lịch Thi Đấu: 29/01/2026", ⚽ Shabab Al Ordon vs Al Wehdat | 20:00 29/01
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://cktv.pro/
 https://cktv.pro/match/yw3335epbj
-#EXTINF:-1 tvg-id="w2q4c9m9ke" tvg-logo="https://cktv.pro/bg-ck.png" group-title="📅 Lịch Thi Đấu: 29/01/2026", ⚽ Al Bataeh vs Al-Jazira(UAE) | 20:15 29/01
+#EXTINF:-1 tvg-id="w2q4c9m9ke" tvg-logo="https://yquw1225.edgemaxcdn.org/thumb/20260129/bg_w2q4c9m9ke_1769614929745.jpg" group-title="📅 Lịch Thi Đấu: 29/01/2026", ⚽ Al Bataeh vs Al-Jazira(UAE) | 20:15 29/01
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://cktv.pro/
 https://cktv.pro/match/w2q4c9m9ke
-#EXTINF:-1 tvg-id="qite8fxd9a" tvg-logo="https://cktv.pro/bg-ck.png" group-title="📅 Lịch Thi Đấu: 29/01/2026", ⚽ Al-Nahda Muscat vs Al-Seeb | 20:20 29/01
+#EXTINF:-1 tvg-id="qite8fxd9a" tvg-logo="https://yquw1225.edgemaxcdn.org/thumb/20260129/bg_qite8fxd9a_1769614929745.jpg" group-title="📅 Lịch Thi Đấu: 29/01/2026", ⚽ Al-Nahda Muscat vs Al-Seeb | 20:20 29/01
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://cktv.pro/
 https://cktv.pro/match/qite8fxd9a
-#EXTINF:-1 tvg-id="lvyc1nhw91" tvg-logo="https://cktv.pro/bg-ck.png" group-title="📅 Lịch Thi Đấu: 29/01/2026", ⚽ Estoril U23 vs Vizela U23 | 20:30 29/01
+#EXTINF:-1 tvg-id="lvyc1nhw91" tvg-logo="https://yquw1225.edgemaxcdn.org/thumb/20260129/bg_lvyc1nhw91_1769614929745.jpg" group-title="📅 Lịch Thi Đấu: 29/01/2026", ⚽ Estoril U23 vs Vizela U23 | 20:30 29/01
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://cktv.pro/
 https://cktv.pro/match/lvyc1nhw91
-#EXTINF:-1 tvg-id="6in4lv4xhm" tvg-logo="https://cktv.pro/bg-ck.png" group-title="📅 Lịch Thi Đấu: 29/01/2026", ⚽ Umm Salal vs Al-Arabi SC | 21:30 29/01
+#EXTINF:-1 tvg-id="6in4lv4xhm" tvg-logo="https://yquw1225.edgemaxcdn.org/thumb/20260129/bg_6in4lv4xhm_1769614929745.jpg" group-title="📅 Lịch Thi Đấu: 29/01/2026", ⚽ Umm Salal vs Al-Arabi SC | 21:45 29/01
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://cktv.pro/
 https://cktv.pro/match/6in4lv4xhm
-#EXTINF:-1 tvg-id="gwa4yx4re5" tvg-logo="https://cktv.pro/bg-ck.png" group-title="📅 Lịch Thi Đấu: 29/01/2026", ⚽ Enppi vs Smouha SC | 22:00 29/01
+#EXTINF:-1 tvg-id="gwa4yx4re5" tvg-logo="https://yquw1225.edgemaxcdn.org/thumb/20260129/bg_gwa4yx4re5_1769614929745.jpg" group-title="📅 Lịch Thi Đấu: 29/01/2026", ⚽ Enppi vs Smouha SC | 22:00 29/01
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://cktv.pro/
 https://cktv.pro/match/gwa4yx4re5
-#EXTINF:-1 tvg-id="zoxglpc5il" tvg-logo="https://cktv.pro/bg-ck.png" group-title="📅 Lịch Thi Đấu: 29/01/2026", ⚽ Al-Fateh SC vs Al-Ittihad Club | 22:00 29/01
+#EXTINF:-1 tvg-id="zoxglpc5il" tvg-logo="https://yquw1225.edgemaxcdn.org/thumb/20260129/bg_zoxglpc5il_1769614929745.jpg" group-title="📅 Lịch Thi Đấu: 29/01/2026", ⚽ Al-Fateh SC vs Al-Ittihad Club | 22:00 29/01
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://cktv.pro/
 https://cktv.pro/match/zoxglpc5il
-#EXTINF:-1 tvg-id="8d4eosc3qd" tvg-logo="https://cktv.pro/bg-ck.png" group-title="📅 Lịch Thi Đấu: 29/01/2026", ⚽ Al Faisaly vs Ramtha Club | 22:30 29/01
+#EXTINF:-1 tvg-id="8d4eosc3qd" tvg-logo="https://yquw1225.edgemaxcdn.org/thumb/20260129/bg_8d4eosc3qd_1769614929745.jpg" group-title="📅 Lịch Thi Đấu: 29/01/2026", ⚽ Al Faisaly vs Ramtha Club | 22:30 29/01
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://cktv.pro/
 https://cktv.pro/match/8d4eosc3qd
-#EXTINF:-1 tvg-id="nas3fhjjzi" tvg-logo="https://cktv.pro/bg-ck.png" group-title="📅 Lịch Thi Đấu: 29/01/2026", ⚽ Al Nasr Dubai vs Baniyas Club | 23:00 29/01
+#EXTINF:-1 tvg-id="nas3fhjjzi" tvg-logo="https://yquw1225.edgemaxcdn.org/thumb/20260129/bg_nas3fhjjzi_1769614929745.jpg" group-title="📅 Lịch Thi Đấu: 29/01/2026", ⚽ Al Nasr Dubai vs Baniyas Club | 23:00 29/01
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://cktv.pro/
 https://cktv.pro/match/nas3fhjjzi
-#EXTINF:-1 tvg-id="fz1x2uhk96" tvg-logo="https://cktv.pro/bg-ck.png" group-title="📅 Lịch Thi Đấu: 29/01/2026", ⚽ Al-Wakra vs Al Shahaniya | 23:30 29/01
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://cktv.pro/
-https://cktv.pro/match/fz1x2uhk96
-#EXTINF:-1 tvg-id="knzhluy3c0" tvg-logo="https://cktv.pro/bg-ck.png" group-title="📅 Lịch Thi Đấu: 29/01/2026", ⚽ Al-Nasr(OMA) vs Oman Club | 23:30 29/01
+#EXTINF:-1 tvg-id="knzhluy3c0" tvg-logo="https://yquw1225.edgemaxcdn.org/thumb/20260129/bg_knzhluy3c0_1769614997427.jpg" group-title="📅 Lịch Thi Đấu: 29/01/2026", ⚽ Al-Nasr(OMA) vs Oman Club | 23:30 29/01
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://cktv.pro/
 https://cktv.pro/match/knzhluy3c0
+#EXTINF:-1 tvg-id="fz1x2uhk96" tvg-logo="https://yquw1225.edgemaxcdn.org/thumb/20260129/bg_fz1x2uhk96_1769614997427.jpg" group-title="📅 Lịch Thi Đấu: 29/01/2026", ⚽ Al-Wakra vs Al Shahaniya | 23:45 29/01
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://cktv.pro/
+https://cktv.pro/match/fz1x2uhk96
 #EXTINF:-1 tvg-id="5exticjgwj" tvg-logo="https://yquw1225.edgemaxcdn.org/thumb/20260130/bg_5exticjgwj_1769593680795.jpg" group-title="📅 Lịch Thi Đấu: 30/01/2026", ⚽ Fiorentina (w) vs AC Milan (w) | 00:00 30/01
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://cktv.pro/
