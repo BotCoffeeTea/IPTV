@@ -1,14 +1,10 @@
 #EXTM3U
-#EXTINF:-1, 🕒 Cập nhật: 28/01/2026 05:35:20
+#EXTINF:-1, 🕒 Cập nhật: 28/01/2026 06:46:57
 http://localhost/info
 #EXTINF:-1 tvg-id="dawvxjl84n" tvg-logo="https://yquw1225.edgemaxcdn.org/thumb/20260128/bg_dawvxjl84n_1769527921572.jpg" group-title="🔥 Tâm Điểm", ⚽ Afghanistan Futsal vs Saudi Arabia Futsal | 13:00 28/01
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://cktv.pro/
 https://cktv.pro/match/dawvxjl84n
-#EXTINF:-1 tvg-id="3apge3o8e3" tvg-logo="https://yquw1225.edgemaxcdn.org/thumb/20260128/bg_3apge3o8e3_1769527921572.jpg" group-title="🔥 Tâm Điểm", ⚽ Utah Jazz vs Los Angeles Clippers | 10:00 28/01
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://cktv.pro/
-https://cktv.pro/match/3apge3o8e3
 #EXTINF:-1 tvg-id="qoogoo47rf" tvg-logo="https://yquw1225.edgemaxcdn.org/thumb/20260128/bg_qoogoo47rf_1769527921572.jpg" group-title="🔥 Tâm Điểm", ⚽ Japan Futsal vs Australia Futsal | 15:00 28/01
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://cktv.pro/
@@ -49,14 +45,14 @@ https://cktv.pro/match/yoif6w1c00
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://cktv.pro/
 https://cktv.pro/match/8y1lmzcim7
+#EXTINF:-1 tvg-id="cdhvz4yc7q" tvg-logo="https://yquw1225.edgemaxcdn.org/thumb/20260128/bg_cdhvz4yc7q_1769528580861.jpg" group-title="🔥 Tâm Điểm", ⚽ Eastern A.A Football Team vs Crownity North District | 19:00 28/01
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://cktv.pro/
+https://cktv.pro/match/cdhvz4yc7q
 #EXTINF:-1 tvg-id="dawvxjl84n" tvg-logo="https://yquw1225.edgemaxcdn.org/thumb/20260128/bg_dawvxjl84n_1769527921572.jpg" group-title="⚽ Bóng đá", ⚽ Afghanistan Futsal vs Saudi Arabia Futsal | 13:00 28/01
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://cktv.pro/
 https://cktv.pro/match/dawvxjl84n
-#EXTINF:-1 tvg-id="3apge3o8e3" tvg-logo="https://yquw1225.edgemaxcdn.org/thumb/20260128/bg_3apge3o8e3_1769527921572.jpg" group-title="⚽ Bóng đá", ⚽ Utah Jazz vs Los Angeles Clippers | 10:00 28/01
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://cktv.pro/
-https://cktv.pro/match/3apge3o8e3
 #EXTINF:-1 tvg-id="qoogoo47rf" tvg-logo="https://yquw1225.edgemaxcdn.org/thumb/20260128/bg_qoogoo47rf_1769527921572.jpg" group-title="⚽ Bóng đá", ⚽ Japan Futsal vs Australia Futsal | 15:00 28/01
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://cktv.pro/
@@ -677,34 +673,30 @@ https://cktv.pro/match/7jjbwdyh5h
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://cktv.pro/
 https://cktv.pro/match/xc1z2uql2o
-#EXTINF:-1 tvg-id="thapcamtv" tvg-logo="https://thapcamiptv.com/10cam-logo-app-light.jpg" group-title="⚡ Nội dung hấp dẫn - Giải trí không giới hạn! ⚡", ThapcamTV
-https://tctv.pro
-#EXTINF:-1 tvg-id="newtruyenhot" tvg-logo="https://newtruyenhot.4share.me/static/img/logo-newtruyenhot.png" group-title="⚡ Nội dung hấp dẫn - Giải trí không giới hạn! ⚡", NewTruyenHot
-https://newtruyenhot.4share.me
-#EXTINF:-1 tvg-id="hangtruyen" tvg-logo="https://ht.khotruyen.link/images/hangtruyen.png" group-title="⚡ Nội dung hấp dẫn - Giải trí không giới hạn! ⚡", Hang Truyện
-https://ht.khotruyen.link
-#EXTINF:-1 tvg-id="otruyen" tvg-logo="https://otruyen-iptv.khotruyen.link/logo.png" group-title="⚡ Nội dung hấp dẫn - Giải trí không giới hạn! ⚡", Ổ Truyện
-https://otruyen-iptv.khotruyen.link
+#EXTINF:-1 tvg-id="ophim" tvg-logo="https://op.hdpe.pro/images/logo.png" group-title="⚡ Nội dung hấp dẫn - Giải trí không giới hạn! ⚡", Ophim
+https://op.hdpe.pro
 #EXTINF:-1 tvg-id="nguonc" tvg-logo="https://nc.hdpe.pro/images/logo.png" group-title="⚡ Nội dung hấp dẫn - Giải trí không giới hạn! ⚡", NguonC
 https://nc.hdpe.pro
 #EXTINF:-1 tvg-id="vtvgo" tvg-logo="https://web-cache-aws.vtvdigital.vn/assets/images/logo-app.png" group-title="⚡ Nội dung hấp dẫn - Giải trí không giới hạn! ⚡", VTVGO
 https://vtvgo.4share.me/v1
-#EXTINF:-1 tvg-id="kkphim" tvg-logo="https://kk.hdpe.pro/images/logo.png" group-title="⚡ Nội dung hấp dẫn - Giải trí không giới hạn! ⚡", Kkphim
-https://kk.hdpe.pro
-#EXTINF:-1 tvg-id="ophim" tvg-logo="https://op.hdpe.pro/images/logo.png" group-title="⚡ Nội dung hấp dẫn - Giải trí không giới hạn! ⚡", Ophim
-https://op.hdpe.pro
 #EXTINF:-1 tvg-id="vebotv" tvg-logo="https://vebo.thethaoiptv.com/vebo-icon.png" group-title="⚡ Nội dung hấp dẫn - Giải trí không giới hạn! ⚡", VeboTV
 https://vbtv.pro
+#EXTINF:-1 tvg-id="otruyen" tvg-logo="https://otruyen-iptv.khotruyen.link/logo.png" group-title="⚡ Nội dung hấp dẫn - Giải trí không giới hạn! ⚡", Ổ Truyện
+https://otruyen-iptv.khotruyen.link
+#EXTINF:-1 tvg-id="hangtruyen" tvg-logo="https://ht.khotruyen.link/images/hangtruyen.png" group-title="⚡ Nội dung hấp dẫn - Giải trí không giới hạn! ⚡", Hang Truyện
+https://ht.khotruyen.link
+#EXTINF:-1 tvg-id="thapcamtv" tvg-logo="https://thapcamiptv.com/10cam-logo-app-light.jpg" group-title="⚡ Nội dung hấp dẫn - Giải trí không giới hạn! ⚡", ThapcamTV
+https://tctv.pro
+#EXTINF:-1 tvg-id="kkphim" tvg-logo="https://kk.hdpe.pro/images/logo.png" group-title="⚡ Nội dung hấp dẫn - Giải trí không giới hạn! ⚡", Kkphim
+https://kk.hdpe.pro
+#EXTINF:-1 tvg-id="newtruyenhot" tvg-logo="https://newtruyenhot.4share.me/static/img/logo-newtruyenhot.png" group-title="⚡ Nội dung hấp dẫn - Giải trí không giới hạn! ⚡", NewTruyenHot
+https://newtruyenhot.4share.me
 #EXTINF:-1 tvg-id="truyenhinh" tvg-logo="https://iptv.nhadai.org/logo.png" group-title="⚡ Nội dung hấp dẫn - Giải trí không giới hạn! ⚡", FPT
 https://iptv.nhadai.org/v1
 #EXTINF:-1 tvg-id="dawvxjl84n" tvg-logo="https://yquw1225.edgemaxcdn.org/thumb/20260128/bg_dawvxjl84n_1769527921572.jpg" group-title="📅 Lịch Thi Đấu: 28/01/2026", ⚽ Afghanistan Futsal vs Saudi Arabia Futsal | 13:00 28/01
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://cktv.pro/
 https://cktv.pro/match/dawvxjl84n
-#EXTINF:-1 tvg-id="3apge3o8e3" tvg-logo="https://yquw1225.edgemaxcdn.org/thumb/20260128/bg_3apge3o8e3_1769527921572.jpg" group-title="📅 Lịch Thi Đấu: 28/01/2026", ⚽ Utah Jazz vs Los Angeles Clippers | 10:00 28/01
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://cktv.pro/
-https://cktv.pro/match/3apge3o8e3
 #EXTINF:-1 tvg-id="qoogoo47rf" tvg-logo="https://yquw1225.edgemaxcdn.org/thumb/20260128/bg_qoogoo47rf_1769527921572.jpg" group-title="📅 Lịch Thi Đấu: 28/01/2026", ⚽ Japan Futsal vs Australia Futsal | 15:00 28/01
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://cktv.pro/
