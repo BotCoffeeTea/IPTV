@@ -1,14 +1,10 @@
 #EXTM3U
-#EXTINF:-1, 🕒 Cập nhật: 30/01/2026 05:53:49
+#EXTINF:-1, 🕒 Cập nhật: 30/01/2026 06:59:24
 http://localhost/info
 #EXTINF:-1 tvg-id="i0hwnkem1u" tvg-logo="https://yquw1225.edgemaxcdn.org/thumb/20260130/bg_i0hwnkem1u_1769729880866.jpg" group-title="🔥 Tâm Điểm", ⚽ Wellington Phoenix vs Melbourne City | 13:00 30/01
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://cktv.pro/
 https://cktv.pro/match/i0hwnkem1u
-#EXTINF:-1 tvg-id="um9g1m2n1k" tvg-logo="https://yquw1225.edgemaxcdn.org/thumb/20260130/bg_um9g1m2n1k_1769751961119.jpg" group-title="🔥 Tâm Điểm", ⚽ Saudi Arabia Futsal vs Iran Futsal | 13:00 30/01
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://cktv.pro/
-https://cktv.pro/match/um9g1m2n1k
 #EXTINF:-1 tvg-id="7ef59selc5" tvg-logo="https://yquw1225.edgemaxcdn.org/thumb/20260130/bg_7ef59selc5_1769703121714.jpg" group-title="🔥 Tâm Điểm", ⚽ Australia Futsal vs Uzbekistan Futsal | 15:00 30/01
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://cktv.pro/
@@ -49,14 +45,14 @@ https://cktv.pro/match/xv5yb8zdad
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://cktv.pro/
 https://cktv.pro/match/vectkvlq1d
+#EXTINF:-1 tvg-id="aximszvqz3" tvg-logo="https://yquw1225.edgemaxcdn.org/thumb/20260130/bg_aximszvqz3_1769739061369.jpg" group-title="🔥 Tâm Điểm", ⚽ Malaysia Futsal vs Afghanistan Futsal | 17:00 30/01
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://cktv.pro/
+https://cktv.pro/match/aximszvqz3
 #EXTINF:-1 tvg-id="i0hwnkem1u" tvg-logo="https://yquw1225.edgemaxcdn.org/thumb/20260130/bg_i0hwnkem1u_1769729880866.jpg" group-title="⚽ Bóng đá", ⚽ Wellington Phoenix vs Melbourne City | 13:00 30/01
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://cktv.pro/
 https://cktv.pro/match/i0hwnkem1u
-#EXTINF:-1 tvg-id="um9g1m2n1k" tvg-logo="https://yquw1225.edgemaxcdn.org/thumb/20260130/bg_um9g1m2n1k_1769751961119.jpg" group-title="⚽ Bóng đá", ⚽ Saudi Arabia Futsal vs Iran Futsal | 13:00 30/01
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://cktv.pro/
-https://cktv.pro/match/um9g1m2n1k
 #EXTINF:-1 tvg-id="7ef59selc5" tvg-logo="https://yquw1225.edgemaxcdn.org/thumb/20260130/bg_7ef59selc5_1769703121714.jpg" group-title="⚽ Bóng đá", ⚽ Australia Futsal vs Uzbekistan Futsal | 15:00 30/01
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://cktv.pro/
@@ -673,34 +669,30 @@ https://cktv.pro/match/7jjbwdyh5h
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://cktv.pro/
 https://cktv.pro/match/xc1z2uql2o
-#EXTINF:-1 tvg-id="kkphim" tvg-logo="https://kk.hdpe.pro/images/logo.png" group-title="⚡ Nội dung hấp dẫn - Giải trí không giới hạn! ⚡", Kkphim
-https://kk.hdpe.pro
-#EXTINF:-1 tvg-id="otruyen" tvg-logo="https://otruyen-iptv.khotruyen.link/logo.png" group-title="⚡ Nội dung hấp dẫn - Giải trí không giới hạn! ⚡", Ổ Truyện
-https://otruyen-iptv.khotruyen.link
-#EXTINF:-1 tvg-id="nguonc" tvg-logo="https://nc.hdpe.pro/images/logo.png" group-title="⚡ Nội dung hấp dẫn - Giải trí không giới hạn! ⚡", NguonC
-https://nc.hdpe.pro
-#EXTINF:-1 tvg-id="thapcamtv" tvg-logo="https://thapcamiptv.com/10cam-logo-app-light.jpg" group-title="⚡ Nội dung hấp dẫn - Giải trí không giới hạn! ⚡", ThapcamTV
-https://tctv.pro
-#EXTINF:-1 tvg-id="vebotv" tvg-logo="https://vebo.thethaoiptv.com/vebo-icon.png" group-title="⚡ Nội dung hấp dẫn - Giải trí không giới hạn! ⚡", VeboTV
-https://vbtv.pro
-#EXTINF:-1 tvg-id="hangtruyen" tvg-logo="https://ht.khotruyen.link/images/hangtruyen.png" group-title="⚡ Nội dung hấp dẫn - Giải trí không giới hạn! ⚡", Hang Truyện
-https://ht.khotruyen.link
 #EXTINF:-1 tvg-id="ophim" tvg-logo="https://op.hdpe.pro/images/logo.png" group-title="⚡ Nội dung hấp dẫn - Giải trí không giới hạn! ⚡", Ophim
 https://op.hdpe.pro
+#EXTINF:-1 tvg-id="truyenhinh" tvg-logo="https://iptv.nhadai.org/logo.png" group-title="⚡ Nội dung hấp dẫn - Giải trí không giới hạn! ⚡", FPT
+https://iptv.nhadai.org/v1
 #EXTINF:-1 tvg-id="vtvgo" tvg-logo="https://web-cache-aws.vtvdigital.vn/assets/images/logo-app.png" group-title="⚡ Nội dung hấp dẫn - Giải trí không giới hạn! ⚡", VTVGO
 https://vtvgo.4share.me/v1
 #EXTINF:-1 tvg-id="newtruyenhot" tvg-logo="https://newtruyenhot.4share.me/static/img/logo-newtruyenhot.png" group-title="⚡ Nội dung hấp dẫn - Giải trí không giới hạn! ⚡", NewTruyenHot
 https://newtruyenhot.4share.me
-#EXTINF:-1 tvg-id="truyenhinh" tvg-logo="https://iptv.nhadai.org/logo.png" group-title="⚡ Nội dung hấp dẫn - Giải trí không giới hạn! ⚡", FPT
-https://iptv.nhadai.org/v1
+#EXTINF:-1 tvg-id="thapcamtv" tvg-logo="https://thapcamiptv.com/10cam-logo-app-light.jpg" group-title="⚡ Nội dung hấp dẫn - Giải trí không giới hạn! ⚡", ThapcamTV
+https://tctv.pro
+#EXTINF:-1 tvg-id="hangtruyen" tvg-logo="https://ht.khotruyen.link/images/hangtruyen.png" group-title="⚡ Nội dung hấp dẫn - Giải trí không giới hạn! ⚡", Hang Truyện
+https://ht.khotruyen.link
+#EXTINF:-1 tvg-id="nguonc" tvg-logo="https://nc.hdpe.pro/images/logo.png" group-title="⚡ Nội dung hấp dẫn - Giải trí không giới hạn! ⚡", NguonC
+https://nc.hdpe.pro
+#EXTINF:-1 tvg-id="kkphim" tvg-logo="https://kk.hdpe.pro/images/logo.png" group-title="⚡ Nội dung hấp dẫn - Giải trí không giới hạn! ⚡", Kkphim
+https://kk.hdpe.pro
+#EXTINF:-1 tvg-id="vebotv" tvg-logo="https://vebo.thethaoiptv.com/vebo-icon.png" group-title="⚡ Nội dung hấp dẫn - Giải trí không giới hạn! ⚡", VeboTV
+https://vbtv.pro
+#EXTINF:-1 tvg-id="otruyen" tvg-logo="https://otruyen-iptv.khotruyen.link/logo.png" group-title="⚡ Nội dung hấp dẫn - Giải trí không giới hạn! ⚡", Ổ Truyện
+https://otruyen-iptv.khotruyen.link
 #EXTINF:-1 tvg-id="i0hwnkem1u" tvg-logo="https://yquw1225.edgemaxcdn.org/thumb/20260130/bg_i0hwnkem1u_1769729880866.jpg" group-title="📅 Lịch Thi Đấu: 30/01/2026", ⚽ Wellington Phoenix vs Melbourne City | 13:00 30/01
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://cktv.pro/
 https://cktv.pro/match/i0hwnkem1u
-#EXTINF:-1 tvg-id="um9g1m2n1k" tvg-logo="https://yquw1225.edgemaxcdn.org/thumb/20260130/bg_um9g1m2n1k_1769751961119.jpg" group-title="📅 Lịch Thi Đấu: 30/01/2026", ⚽ Saudi Arabia Futsal vs Iran Futsal | 13:00 30/01
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://cktv.pro/
-https://cktv.pro/match/um9g1m2n1k
 #EXTINF:-1 tvg-id="7ef59selc5" tvg-logo="https://yquw1225.edgemaxcdn.org/thumb/20260130/bg_7ef59selc5_1769703121714.jpg" group-title="📅 Lịch Thi Đấu: 30/01/2026", ⚽ Australia Futsal vs Uzbekistan Futsal | 15:00 30/01
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://cktv.pro/
